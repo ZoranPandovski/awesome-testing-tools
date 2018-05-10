@@ -1,4 +1,12 @@
-# Awesome Testing Tools 
+
+<h1 align="center">
+	<img width="600" src="https://cdn-images-1.medium.com/max/1600/1*Bnrrm2iC7xOlQxKpz2OP-g.jpeg" alt="Testing tools">
+	<br>
+	<br>
+</h1>
+
+# Awesome Testing Tools
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ZoranPandovski/al-go-rithms/issues)
 [![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT)
