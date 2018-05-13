@@ -24,3 +24,11 @@
 | Katalon Studio | Katalon Studio is a powerful test automation solution for web application, mobile, and web services. Being built on top of the Selenium and Appium frameworks, Katalon Studio takes advantage of these solutions for integrated software automation. | https://www.katalon.com/ | Free |
 | Robot Framework | Robot Framework is an open-source automation framework that implements the keyword-driven approach for acceptance testing and acceptance test-driven development (ATDD). Robot Framework provides frameworks for different test automation needs. But its test capability can be further extended by implementing additional test libraries. |http://www.robotframework.org/ | Free |
 | TestComplete | Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls. | https://smartbear.com/product/testcomplete/overview/ | Paid |
+
+# Load Testing Tools
+| Name | Description | Link | Price |
+|---|---|---|---|
+| Jmeter | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions. | http://jmeter.apache.org/download_jmeter.cgi | Free |
+| LoadUI | Scriptless Load Testing for REST & SOAP APIs | https://www.soapui.org/professional/loadui-pro/free-trial.html | Paid |
+| WAPT | Test the Performance of Web Applications Under Load. | https://www.loadtestingtool.com/ | Free/Paid |
+| BlazeMatter | Performance and Load Testing, 100% compatible with Apache JMeter™, 3rd party plugins, and advanced features. Control any aspect of your test in real time. | https://www.blazemeter.com/ | Free/Paid |
