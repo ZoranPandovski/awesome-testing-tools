@@ -36,8 +36,9 @@
 
 # Mobile Testing Tools
 
-| Robotium | Robotium is an open-source test automation tool mainly use for Android UI testing. | https://robotium.com/pages/free-trial | Free |
-| Appium | Appium is an open source test automation framework for use with native, hybrid and mobile web apps. 
-It drives iOS, Android, and Windows apps using the WebDriver protocol. | http://appium.io/ | Free |
+| Name | Description | Link | Price |
+|---|---|---|---|
+| Robotium | Robotium is an open-source test automation tool mainly use for Android UI testing. |  https://robotium.com/pages/free-trial | Free |
+| Appium | Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol. | http://appium.io/ | Free |
 | Espresso | Espresso is a mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment. | https://developer.android.com/training/testing/espresso | Free |
 | Experitest | Perform continuous web and mobile app testing to accelerate release cycles and increase quality. | https://experitest.com/ | Paid |
