@@ -23,11 +23,11 @@
 | Name | Description | Link | Price |
 |---|---|---|---|
 | Selenium | Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well. | https://www.seleniumhq.org/download/ | Free |
-| Squish | The GUI Testing Tool for automated functional regression and system testing. Squish supports of all kinds of cross-platform desktop, mobile, embedded and web applications. | https://www.froglogic.com/squish/free-trial/ | Paid |
+| Squish | The GUI Testing Tool for automated functional regression and system testing. Squish supports of all kinds of cross-platform desktop, mobile, embedded and web applications. | https://www.froglogic.com/ | Paid |
 | Unified Functional Testing | Cross-browser and multi-platform,  Optimized distributed testing, Visual test flows (canvas), Multi-testing solution, Image-based object recognition. | https://software.microfocus.com/ | Paid |
 | Watir | Waitr is an open-source cross-platform web application testing tool. It is most reliable and flexible automation tool of Ruby libraries for web browsers automation. This cross browser testing tool interacts with a browser just like human being so it clicks links, filling out forms and validating text. | http://watir.com/ | Free |
 | Testim | Testim is a modern day automated testing tool. It uses machine learning to speed the authoring, execution, and maintenance of automated tests. The tester can be analysis any test case in few minutes and execute them on multiple web and mobile platforms. | https://www.testim.io/ | Paid |
-| Telerik | The complete test automation solution for GUI, Performance, Load and API testing.Test web, mobile and desktop applications. | http://www.telerik.com/download/teststudio | Paid |
+| Telerik | The complete test automation solution for GUI, Performance, Load and API testing.Test web, mobile and desktop applications. | http://www.telerik.com/ | Paid |
 | Katalon Studio | Katalon Studio is a powerful test automation solution for web application, mobile, and web services. Being built on top of the Selenium and Appium frameworks, Katalon Studio takes advantage of these solutions for integrated software automation. | https://www.katalon.com/ | Free |
 | Robot Framework | Robot Framework is an open-source automation framework that implements the keyword-driven approach for acceptance testing and acceptance test-driven development (ATDD). Robot Framework provides frameworks for different test automation needs. But its test capability can be further extended by implementing additional test libraries. |http://www.robotframework.org/ | Free |
 | TestComplete | Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls. | https://smartbear.com/ | Paid |
@@ -47,7 +47,7 @@
 |---|---|---|---|
 | Robotium | Robotium is an open-source test automation tool mainly use for Android UI testing. |  https://robotium.com/pages/free-trial | Free |
 | Appium | Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol. | http://appium.io/ | Free |
-| Espresso | Espresso is a mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment. | https://developer.android.com/training/testing/espresso | Free |
+| Espresso | Espresso is a mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment. | [Espresso](https://developer.android.com/training/testing/espresso) | Free |
 | Experitest | Perform continuous web and mobile app testing to accelerate release cycles and increase quality. | https://experitest.com/ | Paid |
 
 ## Penetration Testing Tools
