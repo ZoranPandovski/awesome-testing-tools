@@ -18,7 +18,10 @@
  * [Load Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#load-testing-tools)
  * [Mobile Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#mobile-testing-tools)
  * [Penetration Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#penetration-testing-tools)
-    
+ 
+## Contributions
+If we are missing some awesome testing tool that you already know, follow our [contribution guide](https://github.com/ZoranPandovski/awesome-testing-tools/blob/master/contributing.md) and make PR.    
+
 ## Automated Testing Tools
 
 | Name | Description | Link | Price |
