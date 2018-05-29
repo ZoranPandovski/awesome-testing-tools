@@ -1,6 +1,6 @@
 
 <h1 align="center">
-	<img width="600" src="https://cdn-images-1.medium.com/max/1600/1*Bnrrm2iC7xOlQxKpz2OP-g.jpeg" alt="Testing tools">
+	<img width="600" src="media/testing-tools.jpeg" alt="Testing tools">
 	<br>
 	<br>
 </h1>
