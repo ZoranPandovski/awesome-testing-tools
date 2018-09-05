@@ -26,6 +26,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 
 | Name | Description | Link | Price |
 |---|---|---|---|
+| Checkbot | Browser extension. Tests your site follows 50+ SEO, speed and security best practices. Finds broken links, insecure pages, redirect chains, duplicate content and more. Crawls your site checking multiple pages at once. | https://www.checkbot.io/ | Free/Paid |
 | Selenium | Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well. | https://www.seleniumhq.org/download/ | Free |
 | Squish | The GUI Testing Tool for automated functional regression and system testing. Squish supports of all kinds of cross-platform desktop, mobile, embedded and web applications. | https://www.froglogic.com/ | Paid |
 | Unified Functional Testing | Cross-browser and multi-platform,  Optimized distributed testing, Visual test flows (canvas), Multi-testing solution, Image-based object recognition. | https://software.microfocus.com/ | Paid |
