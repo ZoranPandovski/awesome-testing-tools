@@ -66,9 +66,20 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | OWASP | The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing. |  https://www.owasp.org/ | Free |
 
 ## Contract Testing tools 
+
+Contract testing becomes applicable as soon as you have two services that need to be communicated. It becomes crucial in microservices world, where multiple services have to interact with each other. 
+
+Followig use cases could be valid for the contract testing in conumer and provider world: 
+- I’m a consumer of API and I don’t want to test API manually. 
+- I’m API provider, and along with the unit test, I want to check whether my API adheres to contract, what to do? 
+- We are working in a distributed team and development goes hand in hand, how to share contract? 
+
+
 | Name | Description | Link | Price |
 |---|---|---|--|
 | Pact | In Microservice era, managing contract between two services has become crucial part. Originally started by a development team at realestate.com.au, where they were trying to figure out how to write integration testing for their microservice architecture and later ended up as a [consumer driven contract testing](https://martinfowler.com/articles/consumerDrivenContracts.html) tool.Unlike a schema or specification, which is a static artifact that describes all possible states of a resource, a Pact contract is enforced by executing a collection of test cases, each of which describes a single concrete request/response pair - Pact is, in effect, "contract by example". | https://docs.pact.io/ | Free |
+| JsonSchema | Pact can not be used in situation where you cannot load data into the provider without using the API that you’re actually testing (eg. public APIs). Sometimes you would want to check only the semantic and structure of the API. (eg. as a web client, you are interested in nature of the data.), JSONSchema, would be perfect choice for that. There are  | http://json-schema.org/ . There are different [validators](http://json-schema.org/implementations.html) written for different languages. For my use case, I have written a [blog](https://pritibiyani.github.io/blog/using-json-schema-as-specification-contract-and-validate-your-api) for the same.  | Free |
+
 
 ## License
 
