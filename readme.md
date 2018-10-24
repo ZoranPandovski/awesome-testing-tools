@@ -45,6 +45,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | LoadUI | Scriptless Load Testing for REST & SOAP APIs | https://www.soapui.org/ | Paid |
 | WAPT | Test the Performance of Web Applications Under Load. | https://www.loadtestingtool.com/ | Free/Paid |
 | BlazeMatter | Performance and Load Testing, 100% compatible with Apache JMeter™, 3rd party plugins, and advanced features. Control any aspect of your test in real time. | https://www.blazemeter.com/ | Free/Paid |
+| Gatling | Gatling is an open-source load and performance testing framework based on Scala, Akka and Netty. It is known for it's high performance, ready-to-present HTML reports, scenario recorder and developer-friendly DSL. | https://gatling.io/ | Free |
 
 ## Mobile Testing Tools
 
