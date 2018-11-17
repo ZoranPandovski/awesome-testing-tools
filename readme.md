@@ -36,6 +36,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Katalon Studio | Katalon Studio is a powerful test automation solution for web application, mobile, and web services. Being built on top of the Selenium and Appium frameworks, Katalon Studio takes advantage of these solutions for integrated software automation. | https://www.katalon.com/ | Free |
 | Robot Framework | Robot Framework is an open-source automation framework that implements the keyword-driven approach for acceptance testing and acceptance test-driven development (ATDD). Robot Framework provides frameworks for different test automation needs. But its test capability can be further extended by implementing additional test libraries. |http://www.robotframework.org/ | Free |
 | TestComplete | Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls. | https://smartbear.com/ | Paid |
+| Puppetry | Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into Continuous Integration / Delivery pipeline. | https://puppetry.app/ | Free |
 
 ## Load Testing Tools
 
