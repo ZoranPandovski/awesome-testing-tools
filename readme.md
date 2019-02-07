@@ -37,6 +37,8 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Robot Framework | Robot Framework is an open-source automation framework that implements the keyword-driven approach for acceptance testing and acceptance test-driven development (ATDD). Robot Framework provides frameworks for different test automation needs. But its test capability can be further extended by implementing additional test libraries. |http://www.robotframework.org/ | Free |
 | TestComplete | Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls. | https://smartbear.com/ | Paid |
 | Cucumber | Cucumber is an open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in [Gherkin](https://docs.cucumber.io/gherkin/). Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara. | https://docs.cucumber.io/ | Free |
+| JUnit | JUnit is an open-source unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit. | https://junit.org/ | Free |
+| Puppetry | Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into CI/CD pipeline. | https://puppetry.app/ | Free |
 
 ## Load Testing Tools
 
@@ -46,6 +48,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | LoadUI | Scriptless Load Testing for REST & SOAP APIs | https://www.soapui.org/ | Paid |
 | WAPT | Test the Performance of Web Applications Under Load. | https://www.loadtestingtool.com/ | Free/Paid |
 | BlazeMatter | Performance and Load Testing, 100% compatible with Apache JMeter™, 3rd party plugins, and advanced features. Control any aspect of your test in real time. | https://www.blazemeter.com/ | Free/Paid |
+| Gatling | Gatling is an open-source load and performance testing framework based on Scala, Akka and Netty. It is known for it's high performance, ready-to-present HTML reports, scenario recorder and developer-friendly DSL. | https://gatling.io/ | Free |
 
 ## Mobile Testing Tools
 
@@ -65,6 +68,22 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Wireshark | Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level |  https://www.wireshark.org/ | Free |
 | NetSparker | Automatic, dead accurate and easy-to-use web application security scanner to automatically find security flaws in your websites, web applications and web services. |  https://www.netsparker.com/ | Paid |
 | OWASP | The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing. |  https://www.owasp.org/ | Free |
+| Burp Suite | Burp Suite is a graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, to finding and exploiting security vulnerabilities. | https://portswigger.net/burp/ | Free |
+
+## Contract Testing tools 
+
+Contract testing becomes applicable as soon as you have two services that need to be communicated. It becomes crucial in microservices world, where multiple services have to interact with each other. 
+
+Followig use cases could be valid for the contract testing in conumer and provider world: 
+- I’m a consumer of API and I don’t want to test API manually. 
+- I’m API provider, and along with the unit test, I want to check whether my API adheres to contract, what to do? 
+- We are working in a distributed team and development goes hand in hand, how to share contract? 
+
+
+| Name | Description | Link | Price |
+|---|---|---|--|
+| Pact | In Microservice era, managing contract between two services has become crucial part. Originally started by a development team at realestate.com.au, where they were trying to figure out how to write integration testing for their microservice architecture and later ended up as a [consumer driven contract testing](https://martinfowler.com/articles/consumerDrivenContracts.html) tool.Unlike a schema or specification, which is a static artifact that describes all possible states of a resource, a Pact contract is enforced by executing a collection of test cases, each of which describes a single concrete request/response pair - Pact is, in effect, "contract by example". | https://docs.pact.io/ | Free |
+| JsonSchema | Pact can not be used in situation where you cannot load data into the provider without using the API that you’re actually testing (eg. public APIs). Sometimes you would want to check only the semantic and structure of the API. (eg. as a web client, you are interested in nature of the data.), JSONSchema, would be perfect choice for that. There are  | http://json-schema.org/ . There are different [validators](http://json-schema.org/implementations.html) written for different languages. For my use case, I have written a [blog](https://pritibiyani.github.io/blog/using-json-schema-as-specification-contract-and-validate-your-api) for the same.  | Free |
 
 
 ## License
