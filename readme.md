@@ -40,6 +40,9 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Cucumber | Cucumber is an open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in [Gherkin](https://docs.cucumber.io/gherkin/). Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara. | https://docs.cucumber.io/ | Free |
 | JUnit | JUnit is an open-source unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit. | https://junit.org/ | Free |
 | Puppetry | Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into CI/CD pipeline. | https://puppetry.app/ | Free |
+| PhpUnit | PHPUnit is a unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks that originated with SUnit and became popular with JUnit | https://phpunit.de/ | Free |
+| Karma | Karma can also watch your development files for changes and re-run the tests automatically. Karma lets us run jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works. | https://karma-runner.github.io | Free |
+| Mocha | Mocha is open-source JavaScript Testing Framework that runs on Node.js | https://mochajs.org/ | Free |
 
 ## Load Testing Tools
 
