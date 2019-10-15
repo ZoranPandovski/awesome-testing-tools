@@ -43,6 +43,8 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | PhpUnit | PHPUnit is a unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks that originated with SUnit and became popular with JUnit | https://phpunit.de/ | Free |
 | Karma | Karma can also watch your development files for changes and re-run the tests automatically. Karma lets us run jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works. | https://karma-runner.github.io | Free |
 | Mocha | Mocha is open-source JavaScript Testing Framework that runs on Node.js | https://mochajs.org/ | Free |
+| Mockito | Mockito is a mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors. | https://site.mockito.org | Free |
+
 
 ## Load Testing Tools
 
