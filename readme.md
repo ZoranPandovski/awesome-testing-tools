@@ -40,12 +40,14 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Cucumber | Cucumber is an open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in [Gherkin](https://docs.cucumber.io/gherkin/). Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara. | https://docs.cucumber.io/ | Free |
 | JUnit | JUnit is an open-source unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit. | https://junit.org/ | Free |
 | Phpstan | PHPStan focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code. It moves PHP closer to compiled languages in the sense that the correctness of each line of the code can be checked before you run the actual line. | https://phpstan.org | Free |
+| Psalm | Psalm is a static analysis tool for finding errors in PHP applications, built on top of PHP Parser. | https://psalm.dev | Free |
 | Puppetry | Puppetry is an open-source scriptless test automation tool built on top of Google’s Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be  included into CI/CD pipeline. | https://puppetry.app/ | Free |
 | PhpUnit | PHPUnit is a unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks that originated with SUnit and became popular with JUnit | https://phpunit.de/ | Free |
 | Karma | Karma can also watch your development files for changes and re-run the tests automatically. Karma lets us run jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works. | https://karma-runner.github.io | Free |
 | Mocha | Mocha is open-source JavaScript Testing Framework that runs on Node.js | https://mochajs.org/ | Free |
 | Mockito | Mockito is a mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors. | https://site.mockito.org | Free |
-
+| SilkTest | Test automation for web, mobile, rich-client, and Enterprise applications | https://www.microfocus.com/en-us/products/silk-test/overview| Paid |
+| WHITE | White is open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages. | https://www.codeproject.com/Articles/289028/White-An-UI-Automation-tool-for-windows-applicatio| Free |
 
 ## Load Testing Tools
 
