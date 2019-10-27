@@ -59,6 +59,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | BlazeMatter | Performance and Load Testing, 100% compatible with Apache JMeter™, 3rd party plugins, and advanced features. Control any aspect of your test in real time. | https://www.blazemeter.com/ | Free/Paid |
 | Gatling | Gatling is an open-source load and performance testing framework based on Scala, Akka and Netty. It is known for it's high performance, ready-to-present HTML reports, scenario recorder and developer-friendly DSL. | https://gatling.io/ | Free |
 | Locust | Define user behaviour with Python code, and swarm your system with millions of simultaneous users. | https://locust.io/ | Free |
+| ApacheBench | ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving. | https://httpd.apache.org/docs/2.4/programs/ab.html | Free |
 
 ## Mobile Testing Tools
 
