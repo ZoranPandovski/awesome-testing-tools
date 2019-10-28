@@ -18,9 +18,9 @@
  * [Load Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#load-testing-tools)
  * [Mobile Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#mobile-testing-tools)
  * [Penetration Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#penetration-testing-tools)
- 
+
 ## Contributions
-If we are missing some awesome testing tool that you already know, follow our [contribution guide](https://github.com/ZoranPandovski/awesome-testing-tools/blob/master/contributing.md) and make PR.    
+If we are missing some awesome testing tool that you already know, follow our [contribution guide](https://github.com/ZoranPandovski/awesome-testing-tools/blob/master/contributing.md) and make PR.
 
 ## Automated Testing Tools
 
@@ -48,6 +48,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Mockito | Mockito is a mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors. | https://site.mockito.org | Free |
 | SilkTest | Test automation for web, mobile, rich-client, and Enterprise applications | https://www.microfocus.com/en-us/products/silk-test/overview| Paid |
 | WHITE | White is open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages. | https://www.codeproject.com/Articles/289028/White-An-UI-Automation-tool-for-windows-applicatio| Free |
+| Cypress | Cypress is a Javascript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples. | https://www.cypress.io/ | Free/Paid |
 | Ava | AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively. So you can ship more awesome code. | https://github.com/avajs/ava | Free |
 
 ## Load Testing Tools
@@ -82,14 +83,14 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | OWASP | The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing. |  https://www.owasp.org/ | Free |
 | Burp Suite | Burp Suite is a graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, to finding and exploiting security vulnerabilities. | https://portswigger.net/burp/ | Free |
 
-## Contract Testing tools 
+## Contract Testing tools
 
-Contract testing becomes applicable as soon as you have two services that need to be communicated. It becomes crucial in microservices world, where multiple services have to interact with each other. 
+Contract testing becomes applicable as soon as you have two services that need to be communicated. It becomes crucial in microservices world, where multiple services have to interact with each other.
 
-Followig use cases could be valid for the contract testing in conumer and provider world: 
-- I’m a consumer of API and I don’t want to test API manually. 
-- I’m API provider, and along with the unit test, I want to check whether my API adheres to contract, what to do? 
-- We are working in a distributed team and development goes hand in hand, how to share contract? 
+Followig use cases could be valid for the contract testing in conumer and provider world:
+- I’m a consumer of API and I don’t want to test API manually.
+- I’m API provider, and along with the unit test, I want to check whether my API adheres to contract, what to do?
+- We are working in a distributed team and development goes hand in hand, how to share contract?
 
 
 | Name | Description | Link | Price |
