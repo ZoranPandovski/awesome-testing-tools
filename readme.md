@@ -50,6 +50,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | WHITE | White is open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages. | https://www.codeproject.com/Articles/289028/White-An-UI-Automation-tool-for-windows-applicatio| Free |
 | Cypress | Cypress is a Javascript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples. | https://www.cypress.io/ | Free/Paid |
 | Ava | AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively. So you can ship more awesome code. | https://github.com/avajs/ava | Free |
+| TestCafé | TestCafé is an open-source cross browser end-to-end functional test automation solution for web application. It is a JS based project, and run test suites on any popular browser without adding any additional code. | https://devexpress.github.io/testcafe/ | Free/Paid |
 
 ## Load Testing Tools
 
