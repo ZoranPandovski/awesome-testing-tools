@@ -84,6 +84,12 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | OWASP | The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing. |  https://www.owasp.org/ | Free |
 | Burp Suite | Burp Suite is a graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, to finding and exploiting security vulnerabilities. | https://portswigger.net/burp/ | Free |
 
+## Test Observability Tools
+
+| Name | Description | Link | Price |
+|---|---|---|--|
+| Thundra Foresight | Thundra Foresight is a CI observability tool that provides visibility into your test suites. | https://www.thundra.io/foresight | Free |
+
 ## Contract Testing tools
 
 Contract testing becomes applicable as soon as you have two services that need to be communicated. It becomes crucial in microservices world, where multiple services have to interact with each other.
