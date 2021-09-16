@@ -18,6 +18,7 @@
  * [Load Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#load-testing-tools)
  * [Mobile Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#mobile-testing-tools)
  * [Penetration Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#penetration-testing-tools)
+ * [Test Observability Tools](https://github.com/ZoranPandovski/awesome-testing-tools#test-observability-tools)
 
 ## Contributions
 If we are missing some awesome testing tool that you already know, follow our [contribution guide](https://github.com/ZoranPandovski/awesome-testing-tools/blob/master/contributing.md) and make PR.
@@ -83,6 +84,12 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | NetSparker | Automatic, dead accurate and easy-to-use web application security scanner to automatically find security flaws in your websites, web applications and web services. |  https://www.netsparker.com/ | Paid |
 | OWASP | The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing. |  https://www.owasp.org/ | Free |
 | Burp Suite | Burp Suite is a graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, to finding and exploiting security vulnerabilities. | https://portswigger.net/burp/ | Free |
+
+## Test Observability Tools
+
+| Name | Description | Link | Price |
+|---|---|---|--|
+| Thundra Foresight | Thundra Foresight is a CI observability tool that provides visibility into your test suites. | https://www.thundra.io/foresight | Free |
 
 ## Contract Testing tools
 
