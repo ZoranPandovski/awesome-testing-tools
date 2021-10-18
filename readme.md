@@ -52,6 +52,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Cypress | Cypress is a Javascript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples. | https://www.cypress.io/ | Free/Paid |
 | Ava | AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively. So you can ship more awesome code. | https://github.com/avajs/ava | Free |
 | TestCafé | TestCafé is an open-source cross browser end-to-end functional test automation solution for web application. It is a JS based project, and run test suites on any popular browser without adding any additional code. | https://devexpress.github.io/testcafe/ | Free/Paid |
+| Karate | Karate is the open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. The BDD syntax popularized by Cucumber is language-neutral, and easy for even non-programmers. Assertions and HTML reports are built-in, and you can run tests in parallel for speed. | https://github.com/karatelabs/karate | Free |
 
 ## Load Testing Tools
 
