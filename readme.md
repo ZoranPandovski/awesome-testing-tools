@@ -57,6 +57,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Watir | Waitr is an open-source cross-platform web application testing tool. It is most reliable and flexible automation tool of Ruby libraries for web browsers automation. This cross browser testing tool interacts with a browser just like human being so it clicks links, filling out forms and validating text. | http://watir.com/ | Free |
 | WHITE | White is open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages. | https://www.codeproject.com/Articles/289028/White-An-UI-Automation-tool-for-windows-applicatio| Free |
 | Jest | Jest is open-source Javascript testing framework, written in Typescript and developed by Facebook. It supports testing with Babel, TypeScript, Node, React, Angular, Vue and much more! | https://jestjs.io/ | Free
+| The Testing Library | The Testing Library is a set of helpers that let you test several frameworks, including React, Angular, Vue and their components without relying on their implementation details. This approach makes refactoring a breeze and also nudges you towards best practices for accessibility. | https://testing-library.com/ | Free
 
 ## Load Testing Tools
 
@@ -78,7 +79,9 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Appium | Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol. | http://appium.io/ | Free |
 | Espresso | Espresso is a mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment. | [Espresso](https://developer.android.com/training/testing/espresso) | Free |
 | Experitest | Perform continuous web and mobile app testing to accelerate release cycles and increase quality. | https://experitest.com/ | Paid |
-| Robolectric | Robolectric is an open source test framework for Android. It provides faster unit-testing by running tests inside JVM. | http://robolectric.org/ | Free |  
+| Robolectric | Robolectric is an open source test framework for Android. It provides faster unit-testing by running tests inside JVM. | http://robolectric.org/ | Free | 
+| React Native Testing Library | The React Native Testing Library (RNTL) is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices. | https://callstack.github.io/react-native-testing-library/ | Free | 
+
 
 ## Penetration Testing Tools
 
