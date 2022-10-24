@@ -80,7 +80,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Espresso | Espresso is a mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment. | [Espresso](https://developer.android.com/training/testing/espresso) | Free |
 | Experitest | Perform continuous web and mobile app testing to accelerate release cycles and increase quality. | https://experitest.com/ | Paid |
 | Robolectric | Robolectric is an open source test framework for Android. It provides faster unit-testing by running tests inside JVM. | http://robolectric.org/ | Free | 
-| React Native Testing Library | The React Native Testing Library (RNTL) is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices. | https://callstack.github.io/react-native-testing-library/ | Free | 
+| React Native Testing Library | The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices. | https://callstack.github.io/react-native-testing-library/ | Free | 
 
 
 ## Penetration Testing Tools
