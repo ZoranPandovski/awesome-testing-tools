@@ -106,7 +106,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 
 Contract testing becomes applicable as soon as you have two services that need to be communicated. It becomes crucial in microservices world, where multiple services have to interact with each other.
 
-Followig use cases could be valid for the contract testing in conumer and provider world:
+Following use cases could be valid for the contract testing in consumer and provider world:
 - I’m a consumer of API and I don’t want to test API manually.
 - I’m API provider, and along with the unit test, I want to check whether my API adheres to contract, what to do?
 - We are working in a distributed team and development goes hand in hand, how to share contract?
