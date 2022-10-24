@@ -92,6 +92,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Burp Suite | Burp Suite is a graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, to finding and exploiting security vulnerabilities. | https://portswigger.net/burp/ | Free |
 | ParrotOS | A lightweight security flavor of Debian linux with a framework of security tools already installed. | https://www.parrotsec.org/ | Free |
 | Nmap | An open-source network scanner with many features to discover what is available over the network including hosts, services and operating systems. | https://nmap.org/ | Free |
+| Nessus | Nessus is a popular paid-for tool for scanning vulnerabilities in a computing system or network. It is amazingly easy to use, offers fast and accurate scanning, and can provide you with a comprehensive outlook of your network’s weaknesses at the click of a button. This tool scans for loopholes that attackers may exploit to cause damage to your IT infrastructure. Some of the vulnerabilities it identifies include misconfiguration errors, improper passwords, and open ports. | https://www.tenable.com/products/nessus/nessus-professional | Paid |
 
 ## Test Observability Tools
 
