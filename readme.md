@@ -92,6 +92,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Burp Suite | Burp Suite is a graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application’s attack surface, to finding and exploiting security vulnerabilities. | https://portswigger.net/burp/ | Free |
 | ParrotOS | A lightweight security flavor of Debian linux with a framework of security tools already installed. | https://www.parrotsec.org/ | Free |
 | Nmap | An open-source network scanner with many features to discover what is available over the network including hosts, services and operating systems. | https://nmap.org/ | Free |
+| Aircrack-ng| Aircrack-ng is a comprehensive collection of utilities for analyzing the weaknesses in a WiFi network. The tool allows you to monitor the security of your WiFi network by capturing data packets and exporting them to text files for further analysis. You can also verify the performance of WiFi cards through capture and injection. | https://www.aircrack-ng.org/ | free |
 
 ## Test Observability Tools
 
