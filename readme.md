@@ -93,6 +93,8 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | ParrotOS | A lightweight security flavor of Debian linux with a framework of security tools already installed. | https://www.parrotsec.org/ | Free |
 | Nmap | An open-source network scanner with many features to discover what is available over the network including hosts, services and operating systems. | https://nmap.org/ | Free |
 | Aircrack-ng| Aircrack-ng is a comprehensive collection of utilities for analyzing the weaknesses in a WiFi network. The tool allows you to monitor the security of your WiFi network by capturing data packets and exporting them to text files for further analysis. You can also verify the performance of WiFi cards through capture and injection. | https://www.aircrack-ng.org/ | free |
+| John-the-ripper | John the Ripper is an open source tool that cracks encryption and carries out brute force password attacks. It can crack passwords using lists of common words in over 20 languages, custom keyword lists, using mangling rules to try different variations of each word. It is a very robust tool that can run on a local machine for as long as needed to crack a set of passwords. | https://www.openwall.com/john/ | Free |
+
 
 ## Test Observability Tools
 
