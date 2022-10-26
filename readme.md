@@ -106,7 +106,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Name | Description | Link | Price |
 |---|---|---|--|
 | Thundra Foresight | Thundra Foresight is a CI observability tool that provides visibility into your test suites. | https://www.thundra.io/foresight | Free |
-| LogicMonitor | LogicMonitor provides an agentless SaaS-based monitoring platform. LogicMonitor provides prebuilt integrations and an open API, and is designed to provide monitoring across networks, servers, applications, websites, and containers, including insights and reporting capabilities. | https://www.logicmonitor.com/ | Paid |
+| Auvik | Auvik's cloud-based network management software gives users insight into the networks they manage, and automates complex and time-consuming network tasks. Real-time network mapping and inventory mean users know what's where, even as users move. | https://www.auvik.com/ | Paid |
 
 ## Contract Testing tools
 
