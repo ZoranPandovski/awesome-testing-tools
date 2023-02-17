@@ -116,20 +116,12 @@ If we are missing some awesome testing tool that you already know, follow our [c
 
 | Name | Description | Link | Price |
 |---|---|---|--|
-| Dapp.tools | stuff. | https://www | Free |
-| Ganache | stuff. | https://www | Free |
-| Foundry | stuff. | https://www | Free |
-| Hardhat | stuff. | https://www | Free |
-| Robot Framework Solidity Testing Toolkit | stuff. | https://www.runforesight.com | Free |
-| Truffle Suites | stuff. | https://www.runforesight.com | Free |
-
-
-* [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
-* [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-* [Foundry](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-* [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
-* [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework (a generic RPA ecosystem).
-* [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
+| Dapp.tools | Command line tools and smart contract libraries for Ethereum smart contract development. | https://dapp.tools/ | Free |
+| Ganache | Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates. | https://trufflesuite.com/ganache/ | Free |
+| Foundry | Blazing fast, portable and modular toolkit for Ethereum application development written in Rust. | https://github.com/foundry-rs/foundry | Free |
+| Hardhat |  Multichain Ethereum development environment. | https://hardhat.org/ | Free |
+| Robot Framework Solidity Testing Toolkit | This combines popular smart contract testing and deployment libraries with Robot Framework. | https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit | Free |
+| Truffle Suites | Comprehensive suite of tools for smart contract development. | https://trufflesuite.com/ | Free |
 
 ## Contract Testing tools
 
