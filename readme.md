@@ -19,7 +19,7 @@
  * [Mobile Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#mobile-testing-tools)
  * [Penetration Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#penetration-testing-tools)
  * [Test Observability Tools](https://github.com/ZoranPandovski/awesome-testing-tools#test-observability-tools)
- * [Web3 and Blockchain Testing Tools]((https://github.com/ZoranPandovski/awesome-testing-tools#web3-and-blockchain-testing-tools)
+ * [Web3 and Blockchain Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#web3-and-blockchain-testing-tools)
  * [Contract Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#contract-testing-tools)
 
 ## Contributions
