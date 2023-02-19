@@ -19,6 +19,7 @@
  * [Mobile Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#mobile-testing-tools)
  * [Penetration Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#penetration-testing-tools)
  * [Test Observability Tools](https://github.com/ZoranPandovski/awesome-testing-tools#test-observability-tools)
+ * [Web3 and Blockchain Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#web3-and-blockchain-testing-tools)
  * [Contract Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#contract-testing-tools)
 
 ## Contributions
@@ -110,6 +111,17 @@ If we are missing some awesome testing tool that you already know, follow our [c
 |---|---|---|--|
 | Foresight | GitHub Actions and test monitoring tool. Foresight provides full visibility and deep insights into the health and performance of your tests and CI/CD pipelines. Monitor GitHub Actions CI workflows, tests, builds, steps, and more with Foresight. | https://www.runforesight.com | Free for open-source |
 | Datadog | Datadog is a monitoring, security and analytics platform for developers, IT operations teams, security engineers and business users in the cloud age. Datadog's SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of their customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.| https://www.datadoghq.com/ | Paid |
+
+## Web3 and Blockchain Testing Tools
+
+| Name | Description | Link | Price |
+|---|---|---|--|
+| Dapp.tools | Command line tools and smart contract libraries for Ethereum smart contract development. | https://dapp.tools/ | Free |
+| Ganache | Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates. | https://trufflesuite.com/ganache/ | Free |
+| Foundry | Blazing fast, portable and modular toolkit for Ethereum application development written in Rust. | https://github.com/foundry-rs/foundry | Free |
+| Hardhat |  Multichain Ethereum development environment. | https://hardhat.org/ | Free |
+| Robot Framework Solidity Testing Toolkit | This combines popular smart contract testing and deployment libraries with Robot Framework. | https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit | Free |
+| Truffle Suites | Comprehensive suite of tools for smart contract development. | https://trufflesuite.com/ | Free |
 
 ## Contract Testing tools
 
