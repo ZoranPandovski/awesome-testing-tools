@@ -65,6 +65,8 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Jest | Jest is open-source Javascript testing framework, written in Typescript and developed by Facebook. It supports testing with Babel, TypeScript, Node, React, Angular, Vue and much more! | https://jestjs.io/ | Free
 | The Testing Library | The Testing Library is a set of helpers that let you test several frameworks, including React, Angular, Vue and their components without relying on their implementation details. This approach makes refactoring a breeze and also nudges you towards best practices for accessibility. | https://testing-library.com/ | Free
 | GoConvey | GoConvey is a behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests. | http://goconvey.co/ | Free
+| CodeceptJS | E2E testing framework with a special unificated BDD-style syntax for different frameworks. | https://codecept.io/ | Free
+| testomat.io | Modern TCMS allows sync the manual and automated tests in one place. Real-time reporting. Rich analytics dashboard with value testing metrics. | https://testomat.io/ | Free
 
 ## Load Testing Tools
 
