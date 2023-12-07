@@ -80,6 +80,8 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Gatling | Gatling is an open-source load and performance testing framework based on Scala, Akka and Netty. It is known for it's high performance, ready-to-present HTML reports, scenario recorder and developer-friendly DSL. | https://gatling.io/ | Free |
 | Locust | Define user behaviour with Python code, and swarm your system with millions of simultaneous users. | https://locust.io/ | Free |
 | ApacheBench | ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving. | https://httpd.apache.org/docs/2.4/programs/ab.html | Free |
+| Grafana K6 | Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible. | https://k6.io | Free |
+
 
 ## Mobile Testing Tools
 
