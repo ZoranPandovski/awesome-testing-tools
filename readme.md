@@ -68,6 +68,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | GoConvey | GoConvey is a behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests. | http://goconvey.co/ | Free
 | CodeceptJS | E2E testing framework with a special unificated BDD-style syntax for different frameworks. | https://codecept.io/ | Free
 | testomat.io | Modern TCMS allows sync the manual and automated tests in one place. Real-time reporting. Rich analytics dashboard with value testing metrics. | https://testomat.io/ | Free
+| Zato API Test | API testing in pure English. No programming needed. Implemented and extendable in Python. | https://zato.io/en/docs/3.2/api-testing/index.html | Free
 
 ## Load Testing Tools
 
@@ -91,9 +92,9 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Appium | Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol. | http://appium.io/ | Free |
 | Espresso | Espresso is a mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment. | [Espresso](https://developer.android.com/training/testing/espresso) | Free |
 | Experitest | Perform continuous web and mobile app testing to accelerate release cycles and increase quality. | https://experitest.com/ | Paid |
-| Robolectric | Robolectric is an open source test framework for Android. It provides faster unit-testing by running tests inside JVM. | http://robolectric.org/ | Free | 
-| React Native Testing Library | The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices. | https://callstack.github.io/react-native-testing-library/ | Free | 
-| Maestro | Maestro is the simplest and most effective mobile(Android/iOS) UI testing framework. | https://www.mobile.dev/ | Free | 
+| Robolectric | Robolectric is an open source test framework for Android. It provides faster unit-testing by running tests inside JVM. | http://robolectric.org/ | Free |
+| React Native Testing Library | The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices. | https://callstack.github.io/react-native-testing-library/ | Free |
+| Maestro | Maestro is the simplest and most effective mobile(Android/iOS) UI testing framework. | https://www.mobile.dev/ | Free |
 
 ## Penetration Testing Tools
 
