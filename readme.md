@@ -75,6 +75,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | CodeceptJS | E2E testing framework with a special unificated BDD-style syntax for different frameworks. | https://codecept.io/ | Free
 | testomat.io | Modern TCMS allows sync the manual and automated tests in one place. Real-time reporting. Rich analytics dashboard with value testing metrics. | https://testomat.io/ | Free
 | Zato API Test | API testing in pure English. No programming needed. Implemented and extendable in Python. | https://zato.io/en/docs/3.2/api-testing/index.html | Free
+| Zyntra | Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows. | https://zyntra.app/ | Free/Paid
 
 ## Load Testing Tools
 
