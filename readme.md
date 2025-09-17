@@ -76,6 +76,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | testomat.io | Modern TCMS allows sync the manual and automated tests in one place. Real-time reporting. Rich analytics dashboard with value testing metrics. | https://testomat.io/ | Free
 | Zato API Test | API testing in pure English. No programming needed. Implemented and extendable in Python. | https://zato.io/en/docs/3.2/api-testing/index.html | Free
 | Zyntra | Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows. | https://zyntra.app/ | Free/Paid
+| Treeify | Treeify is an AI test-case design copilot that turns long PRDs and specs into structured, traceable, high-coverage scenarios with a mind-map-native, multi-agent workflow, note-based regeneration, and clean exports to your TMS. | Free/Paid
 
 ## Load Testing Tools
 
