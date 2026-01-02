@@ -21,6 +21,7 @@
  * [Test Observability Tools](https://github.com/ZoranPandovski/awesome-testing-tools#test-observability-tools)
  * [Web3 and Blockchain Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#web3-and-blockchain-testing-tools)
  * [Contract Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#contract-testing-tools)
+ * [API Testing Sandboxes](https://github.com/ZoranPandovski/awesome-testing-tools#api-testing-sandboxes)
 
 ## Contributions
 If we are missing some awesome testing tool that you already know, follow our [contribution guide](https://github.com/ZoranPandovski/awesome-testing-tools/blob/master/contributing.md) and make PR.
@@ -152,6 +153,14 @@ Following use cases could be valid for the contract testing in consumer and prov
 | RestQA | A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.  | https://github.com/restqa/restqa | Free |
 | Beeceptor | Beeceptor is a cloud based platform for API mocking, debugging, and traffic inspection that provides customizable endpoints for multi-protocol (HTTP, SOAP, GraphQL and gRPC) API services. It offers rule based request and state matching, error and latency simulations, CRUD and stateful mocking, and service virtualization using API specification formats, and offers various other features.  | https://beeceptor.com/ | Free/Paid |
 | WireMock | A popular, open-source tool and Java library for creating flexible mock multi-protocol APIs that allows developers to stub responses, verify requests, and inject faults for local testing. Also offers a paid cloud offering (WireMock Cloud), which is a managed, hosted version that adds an intuitive web UI, team collaboration, enterprise-grade features like chaos testing and API security, and unlimited scalability and usage.  | https://wiremock.org/ | Free/Paid |
+
+## API Testing Sandboxes
+
+Free sandbox environments for practicing API testing with real-world APIs.
+
+| Name | Description | Link | Price |
+|---|---|---|--|
+| Vedika API | Vedic astrology API with free sandbox environment. 108+ REST endpoints, Postman collection, OpenAPI spec, and AI chatbot API. Sandbox provides mock responses without requiring authentication. | https://vedika.io/ | Free |
 
 ## License
 
