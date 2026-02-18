@@ -101,7 +101,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Robolectric | Robolectric is an open source test framework for Android. It provides faster unit-testing by running tests inside JVM. | http://robolectric.org/ | Free |
 | React Native Testing Library | The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices. | https://callstack.github.io/react-native-testing-library/ | Free |
 | Maestro | Maestro is the simplest and most effective mobile(Android/iOS) UI testing framework. | https://www.mobile.dev/ | Free |
-| Sherlo | Sherlo is a visual testing platform for React Native Storybook. It captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically. | https://github.com/sherlo-io/sherlo | Free |
+| Sherlo | Sherlo is a visual testing platform for React Native Storybook. It captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically. | https://github.com/sherlo-io/sherlo | Free/Paid |
 
 ## Penetration Testing Tools
 
