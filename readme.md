@@ -20,6 +20,7 @@
  * [Penetration Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#penetration-testing-tools)
  * [Test Observability Tools](https://github.com/ZoranPandovski/awesome-testing-tools#test-observability-tools)
  * [Web3 and Blockchain Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#web3-and-blockchain-testing-tools)
+ * [Accessibility Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#accessibility-testing-tools)
  * [Contract Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#contract-testing-tools)
 
 ## Contributions
@@ -134,6 +135,18 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Hardhat |  Multichain Ethereum development environment. | https://hardhat.org/ | Free |
 | Robot Framework Solidity Testing Toolkit | This combines popular smart contract testing and deployment libraries with Robot Framework. | https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit | Free |
 | Truffle Suites | Comprehensive suite of tools for smart contract development. | https://trufflesuite.com/ | Free |
+
+## Accessibility Testing Tools
+
+Accessibility testing ensures that web applications and websites are usable by people with disabilities, in compliance with standards like WCAG 2.1/2.2 and regulations such as ADA, Section 508, and the European Accessibility Act.
+
+| Name | Description | Link | Price |
+|---|---|---|---|
+| axe-core | An open-source accessibility testing engine for automated web UI testing. Created by Deque Systems, it powers many other accessibility tools and integrates with Selenium, Playwright, Cypress, and more. | https://github.com/dequelabs/axe-core | Free |
+| WAVE | A suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. Developed by WebAIM, it provides visual feedback about the accessibility of web content by injecting icons and indicators into the page. | https://wave.webaim.org/ | Free |
+| Pa11y | An open-source command-line accessibility testing tool that runs automated tests against web pages using HTML CodeSniffer and axe-core. Supports multiple reporters and CI/CD integration. | https://pa11y.org/ | Free |
+| RatedWithAI | An AI-powered website accessibility scanner that checks against WCAG 2.2 and ADA standards. Provides instant compliance reports with actionable remediation steps. Supports single page scans and full site monitoring. | https://ratedwithai.com | Free/Paid |
+| Lighthouse | An open-source automated tool by Google for improving the quality of web pages. Includes accessibility audits powered by axe-core alongside performance, SEO, and best practices checks. Built into Chrome DevTools. | https://developer.chrome.com/docs/lighthouse | Free |
 
 ## Contract Testing tools
 
