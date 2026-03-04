@@ -78,6 +78,15 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Zato API Test | API testing in pure English. No programming needed. Implemented and extendable in Python. | https://zato.io/en/docs/3.2/api-testing/index.html | Free |
 | Zyntra | Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows. | https://zyntra.app/ | Free/Paid |
 
+## Accessibility Testing Tools
+
+| Name | Description | Link | Price |
+|---|---|---|---|
+| axe DevTools | Industry-standard accessibility testing toolkit by Deque. Browser extension and CLI that checks against WCAG 2.2 standards. Powers accessibility testing in many CI/CD pipelines. | https://www.deque.com/axe/devtools/ | Free/Paid |
+| WAVE | Web accessibility evaluation tool by WebAIM. Provides visual feedback about the accessibility of web content by injecting icons and indicators into the page. | https://wave.webaim.org/ | Free |
+| Pa11y | Automated accessibility testing tool that runs HTML CodeSniffer from the command line. Supports WCAG 2.1 AA/AAA and Section 508 standards. | https://pa11y.org/ | Free |
+| RatedWithAI | AI-powered WCAG 2.2 accessibility scanner. Tests any URL against accessibility standards and provides detailed fix suggestions with code examples. | https://ratedwithai.com/ | Free/Paid |
+| Lighthouse Accessibility | Built into Chrome DevTools, Lighthouse includes an accessibility audit that checks against a subset of WCAG guidelines and reports a score from 0-100. | https://developer.chrome.com/docs/lighthouse/accessibility | Free |
 ## Load Testing Tools
 
 | Name | Description | Link | Price |
