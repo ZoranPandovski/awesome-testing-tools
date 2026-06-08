@@ -144,6 +144,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Hardhat |  Multichain Ethereum development environment. | https://hardhat.org/ | Free |
 | Robot Framework Solidity Testing Toolkit | This combines popular smart contract testing and deployment libraries with Robot Framework. | https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit | Free |
 | Truffle Suites | Comprehensive suite of tools for smart contract development. | https://trufflesuite.com/ | Free |
+| TWZRD Agent Intel | On-chain trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP integration. | https://intel.twzrd.xyz | Free |
 
 ## Accessibility Testing Tools
 
