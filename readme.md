@@ -20,6 +20,7 @@
  * [Penetration Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#penetration-testing-tools)
  * [Test Observability Tools](https://github.com/ZoranPandovski/awesome-testing-tools#test-observability-tools)
  * [Web3 and Blockchain Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#web3-and-blockchain-testing-tools)
+ * [Accessibility Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#accessibility-testing-tools)
  * [Contract Testing Tools](https://github.com/ZoranPandovski/awesome-testing-tools#contract-testing-tools)
 
 ## Contributions
@@ -37,7 +38,8 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Cucumber | Cucumber is an open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in [Gherkin](https://docs.cucumber.io/gherkin/). Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara. | https://docs.cucumber.io/ | Free |
 | Cypress | Cypress is a Javascript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples. | https://www.cypress.io/ | Free/Paid |
 | GoCodeo | GoCodeo is your ultimate AI-powered extension for coding and testing in Visual Studio Code. Generate production-ready code and tests in seconds, and leverage the power of the latest AI models, including cutting-edge Large Language Models (LLMs) like Claude Sonnet 3.5, GPT - 4o, GPT - 4o mini, Gemini 1.5 Flash, Gemini 1.5 Pro, without any cost. | https://www.gocodeo.com | Free/Paid |
-| Guara | Guará is a Python framework designed to simplify UI test automation. Inspired by design patterns like Page Objects, App Actions, and Screenplay, Guará focuses on Page Transactions-encapsulating user interactions (transactions) on web pages, such as Login, Logout, or Form Submissions. It's not just a tool; it's a programming pattern that can be adapted to any web driver. | https://guara.readthedocs.io/en/latest/ | Free |
+| Guara | Guará is a Python framework designed to simplify UI test automation. Inspired by design patterns like Page Objects, App Actions, and Screenplay, Guará focuses on Page Transactions—encapsulating user interactions (transactions) on web pages, such as Login, Logout, or Form Submissions. It’s not just a tool; it’s a programming pattern that can be adapted to any web driver. | https://guara.readthedocs.io/en/latest/ | Free |
+| Gwirian | Gwirian is an open source BDD test management platform for QA teams. Create and organize features, define scenarios in Given/When/Then format, and track execution status—with full-text search, dashboards, and a modern UI. Self-host for free or try the hosted app. | https://www.gwirian.com/ | Free/Paid |
 | Happo | Happo is a cross-browser screenshot and visual regression testing service, with integrations for popular tools such as Storybook, Playwright, and Cypress. | https://happo.io | Free/Paid |
 | HttpMaster | HttpMaster is a GUI tool for HTTP testing and debugging. | https://www.httpmaster.net/ | Free/Paid |
 | Instancio | Instancio is an open-source library for automating data setup in unit tests. It can create fully-populated POJOs with a single method call. Instancio can be used with any testing framework. It also provides a JUnit 5 extension. | https://www.instancio.org/ | Free |
@@ -47,6 +49,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Katalon Studio | Katalon Studio is a powerful test automation solution for web application, mobile, and web services. Being built on top of the Selenium and Appium frameworks, Katalon Studio takes advantage of these solutions for integrated software automation. | https://www.katalon.com/ | Free |
 | LambdaTest | LambdaTest is a cloud-based cross-browser testing platform that allows you to test your website or web application on 2000+ real browsers and operating systems. It is a fully managed platform that requires no setup or maintenance. | https://www.lambdatest.com/ | Free/Paid |
 | Mocha | Mocha is open-source JavaScript Testing Framework that runs on Node.js | https://mochajs.org/ | Free |
+| MockHero | REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day. | https://mockhero.dev | Free/Paid |
 | Mockito | Mockito is a mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors. | https://site.mockito.org | Free |
 | Nightwatch.js | Nightwatch.js is an integrated framework for performing automated end-to-end testing on web applications and websites, across all major browsers. It is written in Node.js and uses the W3C WebDriver API to interact with various browsers. | https://nightwatchjs.org/ | Free |
 | Panaya Test Dynamix | With Test Dynamix, you can quickly manage tests with automatic workflows, easy documentation, real-time analytics, and smart change analysis. | https://www.panaya.com/testing/ | Free/paid |
@@ -69,8 +72,10 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Unified Functional Testing | Cross-browser and multi-platform,  Optimized distributed testing, Visual test flows (canvas), Multi-testing solution, Image-based object recognition. | https://software.microfocus.com/ | Paid |
 | vREST NG | vREST NG is a zero code API automation solution for functional and regression testing of your APIs. It will help you to efficiently develop your test suites using record/replay, excel sheets (data driven testing) and allow you to derive your API testing using Swagger or OpenAPI specs. | https://vrest.io | Free/Paid |
 | Watir | Waitr is an open-source cross-platform web application testing tool. It is most reliable and flexible automation tool of Ruby libraries for web browsers automation. This cross browser testing tool interacts with a browser just like human being so it clicks links, filling out forms and validating text. | http://watir.com/ | Free |
+| Wopee.io | Wopee.io is an autonomous testing platform that uses visual AI to automatically validate web applications. It integrates with Playwright, Cypress, and other frameworks to provide visual regression testing, autonomous test maintenance, and AI-powered test result analysis. | https://wopee.io/ | Free/Paid |
 | WHITE | White is open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages. | https://www.codeproject.com/Articles/289028/White-An-UI-Automation-tool-for-windows-applicatio| Free |
 | Jest | Jest is open-source Javascript testing framework, written in Typescript and developed by Facebook. It supports testing with Babel, TypeScript, Node, React, Angular, Vue and much more! | https://jestjs.io/ | Free |
+| Jumpstarter | A hardware-in-the-loop testing framework for cloud-native CI/CD pipelines. | https://github.com/jumpstarter-dev/jumpstarter | Free |
 | The Testing Library | The Testing Library is a set of helpers that let you test several frameworks, including React, Angular, Vue and their components without relying on their implementation details. This approach makes refactoring a breeze and also nudges you towards best practices for accessibility. | https://testing-library.com/ | Free |
 | GoConvey | GoConvey is a behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests. | http://goconvey.co/ | Free |
 | CodeceptJS | E2E testing framework with a special unificated BDD-style syntax for different frameworks. | https://codecept.io/ | Free |
@@ -78,6 +83,15 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Zato API Test | API testing in pure English. No programming needed. Implemented and extendable in Python. | https://zato.io/en/docs/3.2/api-testing/index.html | Free |
 | Zyntra | Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows. | https://zyntra.app/ | Free/Paid |
 
+## Accessibility Testing Tools
+
+| Name | Description | Link | Price |
+|---|---|---|---|
+| axe DevTools | Industry-standard accessibility testing toolkit by Deque. Browser extension and CLI that checks against WCAG 2.2 standards. Powers accessibility testing in many CI/CD pipelines. | https://www.deque.com/axe/devtools/ | Free/Paid |
+| WAVE | Web accessibility evaluation tool by WebAIM. Provides visual feedback about the accessibility of web content by injecting icons and indicators into the page. | https://wave.webaim.org/ | Free |
+| Pa11y | Automated accessibility testing tool that runs HTML CodeSniffer from the command line. Supports WCAG 2.1 AA/AAA and Section 508 standards. | https://pa11y.org/ | Free |
+| RatedWithAI | AI-powered WCAG 2.2 accessibility scanner. Tests any URL against accessibility standards and provides detailed fix suggestions with code examples. | https://ratedwithai.com/ | Free/Paid |
+| Lighthouse Accessibility | Built into Chrome DevTools, Lighthouse includes an accessibility audit that checks against a subset of WCAG guidelines and reports a score from 0-100. | https://developer.chrome.com/docs/lighthouse/accessibility | Free |
 ## Load Testing Tools
 
 | Name | Description | Link | Price |
@@ -85,9 +99,10 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Jmeter | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions. | http://jmeter.apache.org/ | Free |
 | LoadUI | Scriptless Load Testing for REST & SOAP APIs | https://www.soapui.org/ | Paid |
 | WAPT | Test the Performance of Web Applications Under Load. | https://www.loadtestingtool.com/ | Free/Paid |
-| BlazeMatter | Performance and Load Testing, 100% compatible with Apache JMeter™, 3rd party plugins, and advanced features. Control any aspect of your test in real time. | https://www.blazemeter.com/ | Free/Paid |
+| BlazeMeter | Performance and Load Testing, 100% compatible with Apache JMeter™, 3rd party plugins, and advanced features. Control any aspect of your test in real time. | https://www.blazemeter.com/ | Free/Paid |
 | Gatling | Gatling is an open-source load and performance testing framework based on Scala, Akka and Netty. It is known for it's high performance, ready-to-present HTML reports, scenario recorder and developer-friendly DSL. | https://gatling.io/ | Free |
 | Locust | Define user behaviour with Python code, and swarm your system with millions of simultaneous users. | https://locust.io/ | Free |
+| th2-loader | th2-loader is an enterprise-grade load and simulation platform for exchanges, trading venues, market data systems, and post-trade infrastructures. It combines high-volume load generation, failover testing, production-data replay, protocol-aware simulation, and reconciliation to identify performance, resilience and correctness defects under realistic market stress. It supports FIX, ITCH, OUCH, FAST, REST, WebSocket, and proprietary protocols. | https://exactpro.com/test-tools/th2-loader | Paid |
 | ApacheBench | ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving. | https://httpd.apache.org/docs/2.4/programs/ab.html | Free |
 | Grafana K6 | Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible. | https://k6.io | Free |
 
@@ -124,6 +139,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Name | Description | Link | Price |
 |---|---|---|--|
 | Datadog | Datadog is a monitoring, security and analytics platform for developers, IT operations teams, security engineers and business users in the cloud age. Datadog's SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of their customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.| https://www.datadoghq.com/ | Paid |
+| TestDino | TestDino is a test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.| https://testdino.com/ | Free/Paid |
 
 ## Web3 and Blockchain Testing Tools
 
@@ -135,6 +151,18 @@ If we are missing some awesome testing tool that you already know, follow our [c
 | Hardhat |  Multichain Ethereum development environment. | https://hardhat.org/ | Free |
 | Robot Framework Solidity Testing Toolkit | This combines popular smart contract testing and deployment libraries with Robot Framework. | https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit | Free |
 | Truffle Suites | Comprehensive suite of tools for smart contract development. | https://trufflesuite.com/ | Free |
+
+## Accessibility Testing Tools
+
+Accessibility testing ensures that web applications and websites are usable by people with disabilities, in compliance with standards like WCAG 2.1/2.2 and regulations such as ADA, Section 508, and the European Accessibility Act.
+
+| Name | Description | Link | Price |
+|---|---|---|---|
+| axe-core | An open-source accessibility testing engine for automated web UI testing. Created by Deque Systems, it powers many other accessibility tools and integrates with Selenium, Playwright, Cypress, and more. | https://github.com/dequelabs/axe-core | Free |
+| WAVE | A suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. Developed by WebAIM, it provides visual feedback about the accessibility of web content by injecting icons and indicators into the page. | https://wave.webaim.org/ | Free |
+| Pa11y | An open-source command-line accessibility testing tool that runs automated tests against web pages using HTML CodeSniffer and axe-core. Supports multiple reporters and CI/CD integration. | https://pa11y.org/ | Free |
+| RatedWithAI | An AI-powered website accessibility scanner that checks against WCAG 2.2 and ADA standards. Provides instant compliance reports with actionable remediation steps. Supports single page scans and full site monitoring. | https://ratedwithai.com | Free/Paid |
+| Lighthouse | An open-source automated tool by Google for improving the quality of web pages. Includes accessibility audits powered by axe-core alongside performance, SEO, and best practices checks. Built into Chrome DevTools. | https://developer.chrome.com/docs/lighthouse | Free |
 
 ## Contract Testing tools
 
