@@ -17,7 +17,9 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const README = path.join(ROOT, 'readme.md');
 const OUT = path.join(ROOT, 'site', 'data', 'tools.json');
 
-const EXPECTED_COLUMNS = 4;
+// Column layout is read from each table's header row, so reordering columns
+// in the readme is safe; this is the fallback when a table has no header.
+const DEFAULT_COLUMNS = ['name', 'description', 'link', 'price'];
 
 /** Title-case a heading, keeping small connector words lowercase (except first word). */
 function titleCaseCategory(raw) {
@@ -105,6 +107,7 @@ async function main() {
   /** @type {Map<string, Map<string, object>>} category -> (normalized tool name -> tool) */
   const byCategory = new Map();
   let currentCategory = null;
+  let columns = DEFAULT_COLUMNS; // per-table column order, read from its header row
   let warnings = 0;
 
   for (let i = 0; i < lines.length; i++) {
@@ -113,6 +116,7 @@ async function main() {
     const heading = line.match(/^##\s+(.+?)\s*$/);
     if (heading) {
       currentCategory = titleCaseCategory(heading[1]);
+      columns = DEFAULT_COLUMNS;
       continue;
     }
 
@@ -120,17 +124,21 @@ async function main() {
 
     const cells = splitRow(line);
     if (isSeparatorRow(cells)) continue;
-    if (cells.length !== EXPECTED_COLUMNS) {
-      console.warn(`warn: skipping malformed row (${cells.length} columns) at readme.md:${i + 1}: ${line.trim().slice(0, 80)}`);
+    if (isHeaderRow(cells)) {
+      columns = cells.map((cell) => cell.trim().toLowerCase());
+      continue;
+    }
+    if (cells.length !== columns.length) {
+      console.warn(`warn: skipping malformed row (${cells.length} columns, expected ${columns.length}) at readme.md:${i + 1}: ${line.trim().slice(0, 80)}`);
       warnings++;
       continue;
     }
-    if (isHeaderRow(cells)) continue;
 
-    const name = plainText(cells[0]);
-    const description = plainText(cells[1]);
-    const url = extractUrl(cells[2]);
-    const price = normalizePrice(cells[3]);
+    const cell = (column) => cells[columns.indexOf(column)] ?? '';
+    const name = plainText(cell('name'));
+    const description = plainText(cell('description'));
+    const url = extractUrl(cell('link'));
+    const price = normalizePrice(cell('price'));
 
     if (!name) {
       console.warn(`warn: skipping row with empty name at readme.md:${i + 1}`);
