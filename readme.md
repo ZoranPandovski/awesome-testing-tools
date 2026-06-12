@@ -30,6 +30,7 @@ If we are missing some awesome testing tool that you already know, follow our [c
 
 | Name | Description | Link | Price |
 |---|---|---|---|
+| PageGuard | Free all-in-one website health scanner. Scan for SEO, performance, accessibility, and best practices. AI-powered reports, no signup required. | https://pageguard.org | Free |
 | Athena | Athena is an automation platform with a plugin architecture that allows you to easily create and share services | https://athena-oss.github.io/ | Free |
 | Ava | AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively. So you can ship more awesome code. | https://github.com/avajs/ava | Free |
 | BitDive | Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging. | https://bitdive.io/ | Free/Paid |
