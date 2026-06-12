@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Awesome Testing Tools — tune in to 100+ testing tools</title>
+  <meta name="description" content="A curated, community-maintained list of awesome software testing tools — automated, load, mobile, penetration, observability, web3, accessibility and contract testing. Pick a tool and tune it in on the retro TV.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Awesome Testing Tools">
+  <meta property="og:description" content="A curated list of awesome testing tools, tuned in on a retro TV. Generated straight from the awesome-testing-tools readme.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%230d211b'/%3E%3Crect x='2' y='3' width='12' height='9' rx='1' fill='%23efe6d4'/%3E%3Crect x='4' y='5' width='8' height='5' fill='%230d211b'/%3E%3Crect x='6' y='13' width='4' height='1' fill='%23efe6d4'/%3E%3C/svg%3E">
+</head>
+<body>
+
+  <header class="hero" id="top">
+    <div class="container">
+
+      <div class="label-bar" aria-hidden="true">
+        <span>Let's test, shall we?</span>
+        <span class="label-bar-arrow">&darr;</span>
+      </div>
+
+      <div class="hero-copy">
+        <h1 class="hero-title">Awesome<br>Testing&nbsp;Tools</h1>
+        <p class="hero-tagline">A community-curated channel guide to the software testing universe.</p>
+        <p class="hero-count" id="hero-count" aria-live="polite">
+          <span class="blink-dot" aria-hidden="true">&#9679;</span>
+          <span id="hero-count-text">tuning in&hellip;</span>
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="https://github.com/ZoranPandovski/awesome-testing-tools" target="_blank" rel="noopener noreferrer">&#9733; Star on GitHub</a>
+          <a class="btn btn-secondary" href="https://github.com/ZoranPandovski/awesome-testing-tools/blob/master/contributing.md" target="_blank" rel="noopener noreferrer">Suggest a tool</a>
+        </div>
+      </div>
+
+      <!-- The retro TV. The drawing is decorative SVG; the screen and the
+           controls are real HTML layered on top so they stay accessible. -->
+      <div class="tv" id="tv" role="region" aria-label="Retro TV tool viewer. Use left and right arrow keys to change channel." tabindex="0">
+        <svg class="tv-svg" viewBox="0 0 760 640" aria-hidden="true" focusable="false">
+          <defs>
+            <linearGradient id="tvBody" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#f2ead8"/>
+              <stop offset=".5" stop-color="#e4d8bd"/>
+              <stop offset="1" stop-color="#cfc0a0"/>
+            </linearGradient>
+            <linearGradient id="tvBezel2" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#bfb091"/>
+              <stop offset="1" stop-color="#ded2b6"/>
+            </linearGradient>
+            <linearGradient id="tvNeck" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0" stop-color="#cdbe9f"/>
+              <stop offset="1" stop-color="#b3a383"/>
+            </linearGradient>
+            <radialGradient id="tvGlowShadow" cx=".5" cy=".5" r=".5">
+              <stop offset="0" stop-color="#020806" stop-opacity=".55"/>
+              <stop offset="1" stop-color="#020806" stop-opacity="0"/>
+            </radialGradient>
+          </defs>
+
+          <!-- floor shadow -->
+          <ellipse cx="380" cy="618" rx="240" ry="16" fill="url(#tvGlowShadow)"/>
+
+          <!-- pedestal base -->
+          <path d="M250 596 q0 -22 26 -22 h208 q26 0 26 22 v6 q0 12 -18 12 h-224 q-18 0 -18 -12 z" fill="url(#tvNeck)" stroke="#9d8d6c" stroke-width="2"/>
+          <!-- neck -->
+          <path d="M300 530 h160 l12 46 h-184 z" fill="url(#tvNeck)" stroke="#9d8d6c" stroke-width="2"/>
+          <path d="M300 530 h160 l3 12 h-166 z" fill="#8f7f60" opacity=".5"/>
+
+          <!-- monitor body -->
+          <rect x="70" y="18" width="620" height="514" rx="46" fill="url(#tvBody)" stroke="#a3936f" stroke-width="2.5"/>
+          <!-- top highlight -->
+          <rect x="92" y="32" width="576" height="20" rx="10" fill="#fbf6e9" opacity=".55"/>
+
+          <!-- inner bezel -->
+          <rect x="108" y="56" width="544" height="396" rx="20" fill="url(#tvBezel2)" stroke="#a3936f" stroke-width="2"/>
+          <!-- screen cavity (the HTML screen sits exactly over this rect) -->
+          <rect x="128" y="74" width="504" height="360" rx="10" fill="#04100b" stroke="#7e6f51" stroke-width="2"/>
+
+          <!-- bottom control strip details -->
+          <!-- vent dots cluster, like the reference -->
+          <g fill="#b1a182" stroke="#94855f" stroke-width="1.5">
+            <circle cx="150" cy="488" r="7"/>
+            <circle cx="172" cy="478" r="7"/>
+            <circle cx="172" cy="498" r="7"/>
+            <circle cx="194" cy="488" r="7"/>
+          </g>
+          <!-- speaker slot -->
+          <rect x="330" y="481" width="100" height="13" rx="6.5" fill="#b9aa8a" stroke="#94855f" stroke-width="1.5"/>
+          <!-- brand pixel mark -->
+          <g fill="#9d8d6c">
+            <rect x="248" y="483" width="8" height="8"/>
+            <rect x="258" y="483" width="8" height="8"/>
+            <rect x="253" y="491" width="8" height="3"/>
+          </g>
+          <!-- power LED -->
+          <circle id="tv-led" class="tv-led" cx="476" cy="488" r="6" fill="#57e6a4"/>
+        </svg>
+
+        <!-- screen: real HTML over the SVG cavity -->
+        <div class="tv-screen" id="tv-screen">
+          <div class="screen-chrome" aria-hidden="true">
+            <span class="screen-logo">ATT</span>
+            <span class="screen-grid"></span>
+            <span class="screen-channel" id="screen-channel">CH --</span>
+          </div>
+          <div class="screen-body" id="screen-body" aria-live="polite">
+            <!-- idle / tuned content rendered by app.js -->
+            <noscript><p class="screen-noscript">This channel guide needs JavaScript. The full list lives in the readme on GitHub.</p></noscript>
+          </div>
+          <div class="screen-static" id="screen-static" aria-hidden="true"></div>
+          <div class="screen-scanlines" aria-hidden="true"></div>
+        </div>
+
+        <!-- TV controls: real buttons over the bottom bezel -->
+        <div class="tv-controls">
+          <button class="tv-knob" id="tv-prev" type="button" aria-label="Previous channel" title="Previous channel">&#9666;</button>
+          <button class="tv-knob" id="tv-next" type="button" aria-label="Next channel" title="Next channel">&#9656;</button>
+          <button class="tv-knob tv-knob-power" id="tv-power" type="button" aria-label="Power off (back to test pattern)" title="Power">&#9211;</button>
+        </div>
+      </div>
+
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="label-bar">
+      <span id="grid-label">All channels</span>
+      <span class="label-bar-arrow" aria-hidden="true">&darr;</span>
+    </div>
+    <nav class="filter-bar" id="filter-bar" aria-label="Filter tools by category">
+      <!-- category filter chips rendered by app.js -->
+    </nav>
+    <ul class="grid" id="grid" aria-labelledby="grid-label">
+      <!-- cards rendered by app.js -->
+    </ul>
+  </main>
+
+  <footer class="footer container">
+    <p>
+      Generated from
+      <a href="https://github.com/ZoranPandovski/awesome-testing-tools/blob/master/readme.md" target="_blank" rel="noopener noreferrer">readme.md</a>
+      &mdash; the readme is the single source of truth.
+      Released under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer">CC0</a>.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
