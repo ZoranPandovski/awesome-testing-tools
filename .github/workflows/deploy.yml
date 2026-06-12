@@ -39,6 +39,9 @@ jobs:
       - name: Build tools.json from readme.md
         run: node scripts/parse-readme.mjs
 
+      - name: Add CNAME
+        run: echo "awesometesting.tools" > site/CNAME
+        
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
