@@ -75,7 +75,6 @@
 
     const meta = el('div', 'tuned-meta');
     meta.appendChild(el('span', 'chip', tool.category));
-    meta.appendChild(el('span', 'badge badge-' + tool.price, tool.price));
     tuned.appendChild(meta);
 
     tuned.appendChild(el('p', 'tuned-desc', tool.description));
@@ -176,7 +175,6 @@
 
       const meta = el('span', 'card-meta');
       meta.appendChild(el('span', 'chip', tool.category));
-      meta.appendChild(el('span', 'badge badge-' + tool.price, tool.price));
       card.appendChild(meta);
 
       card.appendChild(el('p', 'card-desc', tool.description));

@@ -1,31 +1,29 @@
 {
-  "generatedAt": "2026-06-12T16:06:01.071Z",
+  "generatedAt": "2026-06-17T11:39:19.637Z",
   "categories": [
     "Automated Testing Tools",
-    "Accessibility Testing Tools",
     "Load Testing Tools",
     "Mobile Testing Tools",
     "Penetration Testing Tools",
     "Test Observability Tools",
     "Web3 and Blockchain Testing Tools",
+    "Accessibility Testing Tools",
     "Contract Testing Tools"
   ],
   "tools": [
     {
       "id": "athena",
       "name": "Athena",
-      "description": "Athena is an automation platform with a plugin architecture that allows you to easily create and share services",
+      "description": "Automation platform with a plugin architecture that allows you to easily create and share services.",
       "url": "https://athena-oss.github.io/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 17
     },
     {
       "id": "ava",
       "name": "Ava",
-      "description": "AVA is a test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively. So you can ship more awesome code.",
+      "description": "Test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively. So you can ship more awesome code.",
       "url": "https://github.com/avajs/ava",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 52
     },
@@ -34,25 +32,22 @@
       "name": "BitDive",
       "description": "Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging.",
       "url": "https://bitdive.io/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 16
     },
     {
       "id": "bugbug",
       "name": "BugBug",
-      "description": "BugBug is a lightweight test automation tool designed exclusively for web applications. It uses a Chrome extension to record and playback tests. It's free, you only need to pay if you want to schedule cloud monitoring or integrate it with your CI/CD pipelines.",
+      "description": "Lightweight test automation tool designed exclusively for web applications. It uses a Chrome extension to record and playback tests. It's free, you only need to pay if you want to schedule cloud monitoring or integrate it with your CI/CD pipelines.",
       "url": "https://bugbug.io",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 22
     },
     {
       "id": "caqui",
       "name": "Caqui",
-      "description": "Caqui executes commands against Drivers synchronously and asynchronously. The intention is that the user does not worry about which Driver they're using. It can be WebDrivers like Selenium, MobileDrivers like Appium, or DesktopDrivers like Winium.",
+      "description": "Executes commands against Drivers synchronously and asynchronously. The intention is that the user does not worry about which Driver they're using. It can be WebDrivers like Selenium, MobileDrivers like Appium, or DesktopDrivers like Winium.",
       "url": "https://douglasdcm.github.io/caqui/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 76
     },
@@ -61,7 +56,6 @@
       "name": "Checkbot",
       "description": "Browser extension. Tests your site follows 50+ SEO, speed and security best practices. Finds broken links, insecure pages, redirect chains, duplicate content and more. Crawls your site checking multiple pages at once.",
       "url": "https://www.checkbot.io/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 99
     },
@@ -70,43 +64,38 @@
       "name": "CodeceptJS",
       "description": "E2E testing framework with a special unificated BDD-style syntax for different frameworks.",
       "url": "https://codecept.io/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 55
     },
     {
       "id": "cucumber",
       "name": "Cucumber",
-      "description": "Cucumber is an open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in Gherkin. Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara.",
+      "description": "Open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in Gherkin. Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara.",
       "url": "https://docs.cucumber.io/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 19
     },
     {
       "id": "cypress",
       "name": "Cypress",
-      "description": "Cypress is a Javascript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples.",
+      "description": "JavaScript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples.",
       "url": "https://www.cypress.io/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 52
     },
     {
       "id": "gocodeo",
       "name": "GoCodeo",
-      "description": "GoCodeo is your ultimate AI-powered extension for coding and testing in Visual Studio Code. Generate production-ready code and tests in seconds, and leverage the power of the latest AI models, including cutting-edge Large Language Models (LLMs) like Claude Sonnet 3.5, GPT - 4o, GPT - 4o mini, Gemini 1.5 Flash, Gemini 1.5 Pro, without any cost.",
+      "description": "Your ultimate AI-powered extension for coding and testing in Visual Studio Code. Generate production-ready code and tests in seconds, and leverage the power of the latest AI models, including cutting-edge Large Language Models (LLMs) like Claude Sonnet 3.5, GPT - 4o, GPT - 4o mini, Gemini 1.5 Flash, Gemini 1.5 Pro, without any cost.",
       "url": "https://www.gocodeo.com",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 31
     },
     {
       "id": "goconvey",
       "name": "GoConvey",
-      "description": "GoConvey is a behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests.",
-      "url": "http://goconvey.co/",
-      "price": "free",
+      "description": "Behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests.",
+      "url": "https://github.com/smartystreets/goconvey",
       "category": "Automated Testing Tools",
       "channel": 66
     },
@@ -115,52 +104,46 @@
       "name": "Guara",
       "description": "Guará is a Python framework designed to simplify UI test automation. Inspired by design patterns like Page Objects, App Actions, and Screenplay, Guará focuses on Page Transactions—encapsulating user interactions (transactions) on web pages, such as Login, Logout, or Form Submissions. It’s not just a tool; it’s a programming pattern that can be adapted to any web driver.",
       "url": "https://guara.readthedocs.io/en/latest/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 79
     },
     {
       "id": "gwirian",
       "name": "Gwirian",
-      "description": "Gwirian is an open source BDD test management platform for QA teams. Create and organize features, define scenarios in Given/When/Then format, and track execution status—with full-text search, dashboards, and a modern UI. Self-host for free or try the hosted app.",
+      "description": "Open source BDD test management platform for QA teams. Create and organize features, define scenarios in Given/When/Then format, and track execution status—with full-text search, dashboards, and a modern UI. Self-host for free or try the hosted app.",
       "url": "https://www.gwirian.com/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 6
     },
     {
       "id": "happo",
       "name": "Happo",
-      "description": "Happo is a cross-browser screenshot and visual regression testing service, with integrations for popular tools such as Storybook, Playwright, and Cypress.",
+      "description": "Cross-browser screenshot and visual regression testing service, with integrations for popular tools such as Storybook, Playwright, and Cypress.",
       "url": "https://happo.io",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 3
     },
     {
       "id": "httpmaster",
       "name": "HttpMaster",
-      "description": "HttpMaster is a GUI tool for HTTP testing and debugging.",
+      "description": "GUI tool for HTTP testing and debugging.",
       "url": "https://www.httpmaster.net/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 35
     },
     {
       "id": "instancio",
       "name": "Instancio",
-      "description": "Instancio is an open-source library for automating data setup in unit tests. It can create fully-populated POJOs with a single method call. Instancio can be used with any testing framework. It also provides a JUnit 5 extension.",
+      "description": "Open-source library for automating data setup in unit tests. It can create fully-populated POJOs with a single method call. Instancio can be used with any testing framework. It also provides a JUnit 5 extension.",
       "url": "https://www.instancio.org/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 35
     },
     {
       "id": "jest",
       "name": "Jest",
-      "description": "Jest is open-source Javascript testing framework, written in Typescript and developed by Facebook. It supports testing with Babel, TypeScript, Node, React, Angular, Vue and much more!",
+      "description": "Open-source JavaScript testing framework, written in TypeScript and developed by Facebook. It supports testing with Babel, TypeScript, Node, React, Angular, Vue and much more!",
       "url": "https://jestjs.io/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 4
     },
@@ -169,70 +152,62 @@
       "name": "Jumpstarter",
       "description": "A hardware-in-the-loop testing framework for cloud-native CI/CD pipelines.",
       "url": "https://github.com/jumpstarter-dev/jumpstarter",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 35
     },
     {
       "id": "junit",
       "name": "JUnit",
-      "description": "JUnit is an open-source unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit.",
+      "description": "Open-source unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit.",
       "url": "https://junit.org/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 84
     },
     {
       "id": "karate",
       "name": "Karate",
-      "description": "Karate is the open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. The BDD syntax popularized by Cucumber is language-neutral, and easy for even non-programmers. Assertions and HTML reports are built-in, and you can run tests in parallel for speed.",
+      "description": "Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. The BDD syntax popularized by Cucumber is language-neutral, and easy for even non-programmers. Assertions and HTML reports are built-in, and you can run tests in parallel for speed.",
       "url": "https://github.com/karatelabs/karate",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 48
     },
     {
       "id": "karma",
       "name": "Karma",
-      "description": "Karma can also watch your development files for changes and re-run the tests automatically. Karma lets us run jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works.",
+      "description": "Can also watch your development files for changes and re-run the tests automatically. Karma lets us run Jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works.",
       "url": "https://karma-runner.github.io",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 84
     },
     {
       "id": "katalon-studio",
       "name": "Katalon Studio",
-      "description": "Katalon Studio is a powerful test automation solution for web application, mobile, and web services. Being built on top of the Selenium and Appium frameworks, Katalon Studio takes advantage of these solutions for integrated software automation.",
+      "description": "Powerful test automation solution for web application, mobile, and web services. Being built on top of the Selenium and Appium frameworks, Katalon Studio takes advantage of these solutions for integrated software automation.",
       "url": "https://www.katalon.com/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 1
     },
     {
       "id": "kogiqa",
       "name": "kogiQA",
-      "description": "kogiQA is a UI automation tool that works without selectors, so one can simply type page.click('Submit') it just has to match the meaning you see on the page.",
+      "description": "UI automation tool that works without selectors, so one can simply type page.click('Submit') it just has to match the meaning you see on the page.",
       "url": "https://kogiqa.com/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 97
     },
     {
       "id": "lambdatest",
       "name": "LambdaTest",
-      "description": "LambdaTest is a cloud-based cross-browser testing platform that allows you to test your website or web application on 2000+ real browsers and operating systems. It is a fully managed platform that requires no setup or maintenance.",
+      "description": "Cloud-based cross-browser testing platform that allows you to test your website or web application on 2000+ real browsers and operating systems. It is a fully managed platform that requires no setup or maintenance.",
       "url": "https://www.lambdatest.com/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 63
     },
     {
       "id": "mocha",
       "name": "Mocha",
-      "description": "Mocha is open-source JavaScript Testing Framework that runs on Node.js",
+      "description": "Open-source JavaScript Testing Framework that runs on Node.js.",
       "url": "https://mochajs.org/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 53
     },
@@ -241,25 +216,22 @@
       "name": "MockHero",
       "description": "REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.",
       "url": "https://mockhero.dev",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 82
     },
     {
       "id": "mockito",
       "name": "Mockito",
-      "description": "Mockito is a mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.",
+      "description": "Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.",
       "url": "https://site.mockito.org",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 70
     },
     {
       "id": "nightwatch-js",
       "name": "Nightwatch.js",
-      "description": "Nightwatch.js is an integrated framework for performing automated end-to-end testing on web applications and websites, across all major browsers. It is written in Node.js and uses the W3C WebDriver API to interact with various browsers.",
+      "description": "Integrated framework for performing automated end-to-end testing on web applications and websites, across all major browsers. It is written in Node.js and uses the W3C WebDriver API to interact with various browsers.",
       "url": "https://nightwatchjs.org/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 35
     },
@@ -268,7 +240,6 @@
       "name": "Panaya Test Dynamix",
       "description": "With Test Dynamix, you can quickly manage tests with automatic workflows, easy documentation, real-time analytics, and smart change analysis.",
       "url": "https://www.panaya.com/testing/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 26
     },
@@ -277,97 +248,78 @@
       "name": "PestPHP",
       "description": "The elegant PHP testing framework. Pest is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.",
       "url": "https://pestphp.com/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 60
     },
     {
       "id": "phpstan",
       "name": "Phpstan",
-      "description": "PHPStan focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code. It moves PHP closer to compiled languages in the sense that the correctness of each line of the code can be checked before you run the actual line.",
+      "description": "Focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code. It moves PHP closer to compiled languages in the sense that the correctness of each line of the code can be checked before you run the actual line.",
       "url": "https://phpstan.org",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 84
     },
     {
       "id": "phpunit",
       "name": "PhpUnit",
-      "description": "PHPUnit is a unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks that originated with SUnit and became popular with JUnit",
+      "description": "Unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks that originated with SUnit and became popular with JUnit.",
       "url": "https://phpunit.de/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 1
     },
     {
       "id": "playwright",
       "name": "Playwright",
-      "description": "Playwright is a framework for end-to-end testing of web applications. The framework supports writing tests in a variety of languages.",
+      "description": "Framework for end-to-end testing of web applications. The framework supports writing tests in a variety of languages.",
       "url": "https://playwright.dev/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 66
     },
     {
       "id": "psalm",
       "name": "Psalm",
-      "description": "Psalm is a static analysis tool for finding errors in PHP applications, built on top of PHP Parser.",
+      "description": "Static analysis tool for finding errors in PHP applications, built on top of PHP Parser.",
       "url": "https://psalm.dev",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 65
     },
     {
       "id": "puppetry",
       "name": "Puppetry",
-      "description": "Puppetry is an open-source scriptless test automation tool built on top of Google's Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be included into CI/CD pipeline.",
+      "description": "Open-source scriptless test automation tool built on top of Google's Puppeteer. It can be used by QA engineers with no programming background. Puppetry can also export the tests into a Jest.js project, so they can be included into CI/CD pipeline.",
       "url": "https://puppetry.app/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 86
     },
     {
-      "id": "ratedwithai",
-      "name": "RatedWithAI",
-      "description": "RatedWithAI is a free web accessibility testing tool that helps developers check WCAG 2.2 Level AA compliance. It scans websites for accessibility issues and provides detailed reports with actionable remediation guidance.",
-      "url": "https://ratedwithai.com/",
-      "price": "free",
-      "category": "Automated Testing Tools",
-      "channel": 24
-    },
-    {
       "id": "readyapi",
       "name": "ReadyAPI",
-      "description": "ReadyAPI is a paid tool owned by Smartbear. It is used for testing API's. It is built on top of SOAPUI. So it has all the features of SOAPUI and additional features such as support for data-driven testing, SCM friendly project structure, and better assertion capabilities. ReadyAPI is a no-code platfom, but it supports Javascript and Groovy as scripting languages to implement unforseen functionality.",
+      "description": "Paid tool owned by Smartbear. It is used for testing API's. It is built on top of SOAPUI. So it has all the features of SOAPUI and additional features such as support for data-driven testing, SCM friendly project structure, and better assertion capabilities. ReadyAPI is a no-code platform, but it supports JavaScript and Groovy as scripting languages to implement unforeseen functionality.",
       "url": "https://smartbear.com/product/ready-api",
-      "price": "paid",
       "category": "Automated Testing Tools",
       "channel": 31
     },
     {
       "id": "robot-framework",
       "name": "Robot Framework",
-      "description": "Robot Framework is an open-source automation framework that implements the keyword-driven approach for acceptance testing and acceptance test-driven development (ATDD). Robot Framework provides frameworks for different test automation needs. But its test capability can be further extended by implementing additional test libraries.",
-      "url": "http://www.robotframework.org/",
-      "price": "free",
+      "description": "Open-source automation framework that implements the keyword-driven approach for acceptance testing and acceptance test-driven development (ATDD). Robot Framework provides frameworks for different test automation needs. But its test capability can be further extended by implementing additional test libraries.",
+      "url": "https://robotframework.org/",
       "category": "Automated Testing Tools",
       "channel": 32
     },
     {
       "id": "selenium",
       "name": "Selenium",
-      "description": "Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.",
+      "description": "Automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.",
       "url": "https://www.selenium.dev/downloads/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 49
     },
     {
       "id": "silktest",
       "name": "SilkTest",
-      "description": "Test automation for web, mobile, rich-client, and Enterprise applications",
+      "description": "Test automation for web, mobile, rich-client, and Enterprise applications.",
       "url": "https://www.microfocus.com/en-us/products/silk-test/overview",
-      "price": "paid",
       "category": "Automated Testing Tools",
       "channel": 14
     },
@@ -375,8 +327,7 @@
       "id": "squish",
       "name": "Squish",
       "description": "The GUI Testing Tool for automated functional regression and system testing. Squish supports of all kinds of cross-platform desktop, mobile, embedded and web applications.",
-      "url": "https://www.froglogic.com/",
-      "price": "paid",
+      "url": "https://www.qt.io/product/quality-assurance/squish",
       "category": "Automated Testing Tools",
       "channel": 28
     },
@@ -384,17 +335,15 @@
       "id": "telerik",
       "name": "Telerik",
       "description": "The complete test automation solution for GUI, Performance, Load and API testing.Test web, mobile and desktop applications.",
-      "url": "http://www.telerik.com/",
-      "price": "paid",
+      "url": "https://www.telerik.com/",
       "category": "Automated Testing Tools",
       "channel": 57
     },
     {
       "id": "testcafe",
       "name": "TestCafé",
-      "description": "TestCafé is an open-source cross browser end-to-end functional test automation solution for web application. It is a JS based project, and run test suites on any popular browser without adding any additional code.",
-      "url": "https://devexpress.github.io/testcafe/",
-      "price": "freemium",
+      "description": "Open-source cross browser end-to-end functional test automation solution for web application. It is a JS based project, and run test suites on any popular browser without adding any additional code.",
+      "url": "https://testcafe.io/",
       "category": "Automated Testing Tools",
       "channel": 57
     },
@@ -403,16 +352,14 @@
       "name": "TestComplete",
       "description": "Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls.",
       "url": "https://smartbear.com/",
-      "price": "paid",
       "category": "Automated Testing Tools",
       "channel": 82
     },
     {
       "id": "testim",
       "name": "Testim",
-      "description": "Testim is a modern day automated testing tool. It uses machine learning to speed the authoring, execution, and maintenance of automated tests. The tester can be analysis any test case in few minutes and execute them on multiple web and mobile platforms.",
+      "description": "Modern day automated testing tool. It uses machine learning to speed the authoring, execution, and maintenance of automated tests. The tester can be analysis any test case in few minutes and execute them on multiple web and mobile platforms.",
       "url": "https://www.testim.io/",
-      "price": "paid",
       "category": "Automated Testing Tools",
       "channel": 54
     },
@@ -421,16 +368,14 @@
       "name": "testomat.io",
       "description": "Modern TCMS allows sync the manual and automated tests in one place. Real-time reporting. Rich analytics dashboard with value testing metrics.",
       "url": "https://testomat.io/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 98
     },
     {
       "id": "the-testing-library",
       "name": "The Testing Library",
-      "description": "The Testing Library is a set of helpers that let you test several frameworks, including React, Angular, Vue and their components without relying on their implementation details. This approach makes refactoring a breeze and also nudges you towards best practices for accessibility.",
+      "description": "Set of helpers that let you test several frameworks, including React, Angular, Vue and their components without relying on their implementation details. This approach makes refactoring a breeze and also nudges you towards best practices for accessibility.",
       "url": "https://testing-library.com/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 91
     },
@@ -438,44 +383,39 @@
       "id": "unified-functional-testing",
       "name": "Unified Functional Testing",
       "description": "Cross-browser and multi-platform, Optimized distributed testing, Visual test flows (canvas), Multi-testing solution, Image-based object recognition.",
-      "url": "https://software.microfocus.com/",
-      "price": "paid",
+      "url": "https://www.opentext.com/products/uft-one",
       "category": "Automated Testing Tools",
       "channel": 77
     },
     {
       "id": "vrest-ng",
       "name": "vREST NG",
-      "description": "vREST NG is a zero code API automation solution for functional and regression testing of your APIs. It will help you to efficiently develop your test suites using record/replay, excel sheets (data driven testing) and allow you to derive your API testing using Swagger or OpenAPI specs.",
+      "description": "Zero code API automation solution for functional and regression testing of your APIs. It will help you to efficiently develop your test suites using record/replay, excel sheets (data driven testing) and allow you to derive your API testing using Swagger or OpenAPI specs.",
       "url": "https://vrest.io",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 49
     },
     {
       "id": "watir",
       "name": "Watir",
-      "description": "Waitr is an open-source cross-platform web application testing tool. It is most reliable and flexible automation tool of Ruby libraries for web browsers automation. This cross browser testing tool interacts with a browser just like human being so it clicks links, filling out forms and validating text.",
+      "description": "Open-source cross-platform web application testing tool. It is most reliable and flexible automation tool of Ruby libraries for web browsers automation. This cross browser testing tool interacts with a browser just like human being so it clicks links, filling out forms and validating text.",
       "url": "http://watir.com/",
-      "price": "free",
       "category": "Automated Testing Tools",
       "channel": 12
     },
     {
       "id": "white",
       "name": "WHITE",
-      "description": "White is open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages.",
-      "url": "https://www.codeproject.com/Articles/289028/White-An-UI-Automation-tool-for-windows-applicatio",
-      "price": "free",
+      "description": "Open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages.",
+      "url": "https://github.com/TestStack/White",
       "category": "Automated Testing Tools",
       "channel": 9
     },
     {
       "id": "wopee-io",
       "name": "Wopee.io",
-      "description": "Wopee.io is an autonomous testing platform that uses visual AI to automatically validate web applications. It integrates with Playwright, Cypress, and other frameworks to provide visual regression testing, autonomous test maintenance, and AI-powered test result analysis.",
+      "description": "Autonomous testing platform that uses visual AI to automatically validate web applications. It integrates with Playwright, Cypress, and other frameworks to provide visual regression testing, autonomous test maintenance, and AI-powered test result analysis.",
       "url": "https://wopee.io/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 96
     },
@@ -483,8 +423,7 @@
       "id": "zato-api-test",
       "name": "Zato API Test",
       "description": "API testing in pure English. No programming needed. Implemented and extendable in Python.",
-      "url": "https://zato.io/en/docs/3.2/api-testing/index.html",
-      "price": "free",
+      "url": "https://zato.io/",
       "category": "Automated Testing Tools",
       "channel": 99
     },
@@ -493,79 +432,14 @@
       "name": "Zyntra",
       "description": "Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.",
       "url": "https://zyntra.app/",
-      "price": "freemium",
       "category": "Automated Testing Tools",
       "channel": 60
     },
     {
-      "id": "axe-devtools",
-      "name": "axe DevTools",
-      "description": "Industry-standard accessibility testing toolkit by Deque. Browser extension and CLI that checks against WCAG 2.2 standards. Powers accessibility testing in many CI/CD pipelines.",
-      "url": "https://www.deque.com/axe/devtools/",
-      "price": "freemium",
-      "category": "Accessibility Testing Tools",
-      "channel": 55
-    },
-    {
-      "id": "axe-core",
-      "name": "axe-core",
-      "description": "An open-source accessibility testing engine for automated web UI testing. Created by Deque Systems, it powers many other accessibility tools and integrates with Selenium, Playwright, Cypress, and more.",
-      "url": "https://github.com/dequelabs/axe-core",
-      "price": "free",
-      "category": "Accessibility Testing Tools",
-      "channel": 56
-    },
-    {
-      "id": "lighthouse",
-      "name": "Lighthouse",
-      "description": "An open-source automated tool by Google for improving the quality of web pages. Includes accessibility audits powered by axe-core alongside performance, SEO, and best practices checks. Built into Chrome DevTools.",
-      "url": "https://developer.chrome.com/docs/lighthouse",
-      "price": "free",
-      "category": "Accessibility Testing Tools",
-      "channel": 15
-    },
-    {
-      "id": "lighthouse-accessibility",
-      "name": "Lighthouse Accessibility",
-      "description": "Built into Chrome DevTools, Lighthouse includes an accessibility audit that checks against a subset of WCAG guidelines and reports a score from 0-100.",
-      "url": "https://developer.chrome.com/docs/lighthouse/accessibility",
-      "price": "free",
-      "category": "Accessibility Testing Tools",
-      "channel": 35
-    },
-    {
-      "id": "pa11y",
-      "name": "Pa11y",
-      "description": "An open-source command-line accessibility testing tool that runs automated tests against web pages using HTML CodeSniffer and axe-core. Supports multiple reporters and CI/CD integration.",
-      "url": "https://pa11y.org/",
-      "price": "free",
-      "category": "Accessibility Testing Tools",
-      "channel": 81
-    },
-    {
-      "id": "ratedwithai-2",
-      "name": "RatedWithAI",
-      "description": "An AI-powered website accessibility scanner that checks against WCAG 2.2 and ADA standards. Provides instant compliance reports with actionable remediation steps. Supports single page scans and full site monitoring.",
-      "url": "https://ratedwithai.com",
-      "price": "freemium",
-      "category": "Accessibility Testing Tools",
-      "channel": 94
-    },
-    {
-      "id": "wave",
-      "name": "WAVE",
-      "description": "A suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. Developed by WebAIM, it provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.",
-      "url": "https://wave.webaim.org/",
-      "price": "free",
-      "category": "Accessibility Testing Tools",
-      "channel": 94
-    },
-    {
       "id": "apachebench",
       "name": "ApacheBench",
-      "description": "ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving.",
+      "description": "Tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving.",
       "url": "https://httpd.apache.org/docs/2.4/programs/ab.html",
-      "price": "free",
       "category": "Load Testing Tools",
       "channel": 65
     },
@@ -574,25 +448,22 @@
       "name": "BlazeMeter",
       "description": "Performance and Load Testing, 100% compatible with Apache JMeter™, 3rd party plugins, and advanced features. Control any aspect of your test in real time.",
       "url": "https://www.blazemeter.com/",
-      "price": "freemium",
       "category": "Load Testing Tools",
       "channel": 75
     },
     {
       "id": "gatling",
       "name": "Gatling",
-      "description": "Gatling is an open-source load and performance testing framework based on Scala, Akka and Netty. It is known for it's high performance, ready-to-present HTML reports, scenario recorder and developer-friendly DSL.",
+      "description": "Open-source load and performance testing framework based on Scala, Akka and Netty. It is known for it's high performance, ready-to-present HTML reports, scenario recorder and developer-friendly DSL.",
       "url": "https://gatling.io/",
-      "price": "free",
       "category": "Load Testing Tools",
       "channel": 47
     },
     {
       "id": "grafana-k6",
       "name": "Grafana K6",
-      "description": "Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible.",
+      "description": "Open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible.",
       "url": "https://k6.io",
-      "price": "free",
       "category": "Load Testing Tools",
       "channel": 40
     },
@@ -601,16 +472,14 @@
       "name": "Jmeter",
       "description": "The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.",
       "url": "http://jmeter.apache.org/",
-      "price": "free",
       "category": "Load Testing Tools",
       "channel": 99
     },
     {
       "id": "loadui",
       "name": "LoadUI",
-      "description": "Scriptless Load Testing for REST & SOAP APIs",
+      "description": "Scriptless Load Testing for REST & SOAP APIs.",
       "url": "https://www.soapui.org/",
-      "price": "paid",
       "category": "Load Testing Tools",
       "channel": 60
     },
@@ -619,16 +488,14 @@
       "name": "Locust",
       "description": "Define user behaviour with Python code, and swarm your system with millions of simultaneous users.",
       "url": "https://locust.io/",
-      "price": "free",
       "category": "Load Testing Tools",
       "channel": 94
     },
     {
       "id": "th2-loader",
       "name": "th2-loader",
-      "description": "th2-loader is an enterprise-grade load and simulation platform for exchanges, trading venues, market data systems, and post-trade infrastructures. It combines high-volume load generation, failover testing, production-data replay, protocol-aware simulation, and reconciliation to identify performance, resilience and correctness defects under realistic market stress. It supports FIX, ITCH, OUCH, FAST, REST, WebSocket, and proprietary protocols.",
+      "description": "Enterprise-grade load and simulation platform for exchanges, trading venues, market data systems, and post-trade infrastructures. It combines high-volume load generation, failover testing, production-data replay, protocol-aware simulation, and reconciliation to identify performance, resilience and correctness defects under realistic market stress. It supports FIX, ITCH, OUCH, FAST, REST, WebSocket, and proprietary protocols.",
       "url": "https://exactpro.com/test-tools/th2-loader",
-      "price": "paid",
       "category": "Load Testing Tools",
       "channel": 22
     },
@@ -637,25 +504,22 @@
       "name": "WAPT",
       "description": "Test the Performance of Web Applications Under Load.",
       "url": "https://www.loadtestingtool.com/",
-      "price": "freemium",
       "category": "Load Testing Tools",
       "channel": 22
     },
     {
       "id": "appium",
       "name": "Appium",
-      "description": "Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol.",
+      "description": "Open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol.",
       "url": "http://appium.io/",
-      "price": "free",
       "category": "Mobile Testing Tools",
       "channel": 68
     },
     {
       "id": "espresso",
       "name": "Espresso",
-      "description": "Espresso is a mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment.",
+      "description": "Mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment.",
       "url": "https://developer.android.com/training/testing/espresso",
-      "price": "free",
       "category": "Mobile Testing Tools",
       "channel": 49
     },
@@ -664,25 +528,22 @@
       "name": "Experitest",
       "description": "Perform continuous web and mobile app testing to accelerate release cycles and increase quality.",
       "url": "https://experitest.com/",
-      "price": "paid",
       "category": "Mobile Testing Tools",
       "channel": 23
     },
     {
       "id": "flytrap",
       "name": "FlyTrap",
-      "description": "FlyTrap is an exploratory testing agent that finds bugs, crashes, and UX issues in Android and iOS apps. Point it at a Play Store listing, TestFlight build, or app binary and it explores the app like a real tester, no scripts or setup needed. Findings are ready to file in Jira, Linear, and GitHub.",
+      "description": "Exploratory testing agent that finds bugs, crashes, and UX issues in Android and iOS apps. Point it at a Play Store listing, TestFlight build, or app binary and it explores the app like a real tester, no scripts or setup needed. Findings are ready to file in Jira, Linear, and GitHub.",
       "url": "https://flytrap.dev/",
-      "price": "paid",
       "category": "Mobile Testing Tools",
       "channel": 81
     },
     {
       "id": "maestro",
       "name": "Maestro",
-      "description": "Maestro is the simplest and most effective mobile(Android/iOS) UI testing framework.",
+      "description": "Simplest and most effective mobile(Android/iOS) UI testing framework.",
       "url": "https://www.mobile.dev/",
-      "price": "free",
       "category": "Mobile Testing Tools",
       "channel": 39
     },
@@ -691,43 +552,38 @@
       "name": "React Native Testing Library",
       "description": "The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices.",
       "url": "https://callstack.github.io/react-native-testing-library/",
-      "price": "free",
       "category": "Mobile Testing Tools",
       "channel": 95
     },
     {
       "id": "robolectric",
       "name": "Robolectric",
-      "description": "Robolectric is an open source test framework for Android. It provides faster unit-testing by running tests inside JVM.",
+      "description": "Open source test framework for Android. It provides faster unit-testing by running tests inside JVM.",
       "url": "http://robolectric.org/",
-      "price": "free",
       "category": "Mobile Testing Tools",
       "channel": 82
     },
     {
       "id": "sherlo",
       "name": "Sherlo",
-      "description": "Sherlo is a visual testing platform for React Native Storybook. It captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.",
+      "description": "Visual testing platform for React Native Storybook. It captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.",
       "url": "https://github.com/sherlo-io/sherlo",
-      "price": "freemium",
       "category": "Mobile Testing Tools",
       "channel": 36
     },
     {
       "id": "aircrack-ng",
       "name": "Aircrack-ng",
-      "description": "Aircrack-ng is a comprehensive collection of utilities for analyzing the weaknesses in a WiFi network. The tool allows you to monitor the security of your WiFi network by capturing data packets and exporting them to text files for further analysis. You can also verify the performance of WiFi cards through capture and injection.",
+      "description": "Comprehensive collection of utilities for analyzing the weaknesses in a WiFi network. The tool allows you to monitor the security of your WiFi network by capturing data packets and exporting them to text files for further analysis. You can also verify the performance of WiFi cards through capture and injection.",
       "url": "https://www.aircrack-ng.org/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 29
     },
     {
       "id": "burp-suite",
       "name": "Burp Suite",
-      "description": "Burp Suite is a graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, to finding and exploiting security vulnerabilities.",
+      "description": "Graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, to finding and exploiting security vulnerabilities.",
       "url": "https://portswigger.net/burp/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 95
     },
@@ -736,16 +592,14 @@
       "name": "John-the-ripper",
       "description": "John the Ripper is an open source tool that cracks encryption and carries out brute force password attacks. It can crack passwords using lists of common words in over 20 languages, custom keyword lists, using mangling rules to try different variations of each word. It is a very robust tool that can run on a local machine for as long as needed to crack a set of passwords.",
       "url": "https://www.openwall.com/john/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 78
     },
     {
       "id": "kali-linux",
       "name": "Kali Linux",
-      "description": "Kali Linux is the new generation of the industry-leading BackTrack Linux penetration testing and security auditing Linux distribution. Kali Linux is a complete re-build of BackTrack from the ground up, adhering completely to Debian development standards.",
+      "description": "New generation of the industry-leading BackTrack Linux penetration testing and security auditing Linux distribution. Kali Linux is a complete re-build of BackTrack from the ground up, adhering completely to Debian development standards.",
       "url": "https://www.kali.org/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 69
     },
@@ -754,7 +608,6 @@
       "name": "MetaSploit",
       "description": "A collaboration between the open source community and Rapid7, Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.",
       "url": "https://www.metasploit.com/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 64
     },
@@ -763,7 +616,6 @@
       "name": "NetSparker",
       "description": "Automatic, dead accurate and easy-to-use web application security scanner to automatically find security flaws in your websites, web applications and web services.",
       "url": "https://www.netsparker.com/",
-      "price": "paid",
       "category": "Penetration Testing Tools",
       "channel": 18
     },
@@ -772,7 +624,6 @@
       "name": "Nmap",
       "description": "An open-source network scanner with many features to discover what is available over the network including hosts, services and operating systems.",
       "url": "https://nmap.org/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 69
     },
@@ -781,43 +632,38 @@
       "name": "OWASP",
       "description": "The OWASP Zed Attack Proxy (ZAP) is one of the world's most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.",
       "url": "https://www.owasp.org/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 6
     },
     {
       "id": "parrotos",
       "name": "ParrotOS",
-      "description": "A lightweight security flavor of Debian linux with a framework of security tools already installed.",
+      "description": "A lightweight security flavor of Debian Linux with a framework of security tools already installed.",
       "url": "https://www.parrotsec.org/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 96
     },
     {
       "id": "wireshark",
       "name": "Wireshark",
-      "description": "Wireshark is the world's foremost and widely-used network protocol analyzer. It lets you see what's happening on your network at a microscopic level",
+      "description": "World's foremost and widely-used network protocol analyzer. It lets you see what's happening on your network at a microscopic level.",
       "url": "https://www.wireshark.org/",
-      "price": "free",
       "category": "Penetration Testing Tools",
       "channel": 65
     },
     {
       "id": "datadog",
       "name": "Datadog",
-      "description": "Datadog is a monitoring, security and analytics platform for developers, IT operations teams, security engineers and business users in the cloud age. Datadog's SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of their customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.",
+      "description": "Monitoring, security and analytics platform for developers, IT operations teams, security engineers and business users in the cloud age. Datadog's SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of their customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.",
       "url": "https://www.datadoghq.com/",
-      "price": "paid",
       "category": "Test Observability Tools",
       "channel": 20
     },
     {
       "id": "testdino",
       "name": "TestDino",
-      "description": "TestDino is a test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.",
+      "description": "Test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.",
       "url": "https://testdino.com/",
-      "price": "freemium",
       "category": "Test Observability Tools",
       "channel": 75
     },
@@ -826,7 +672,6 @@
       "name": "Dapp.tools",
       "description": "Command line tools and smart contract libraries for Ethereum smart contract development.",
       "url": "https://dapp.tools/",
-      "price": "free",
       "category": "Web3 and Blockchain Testing Tools",
       "channel": 89
     },
@@ -835,16 +680,14 @@
       "name": "Foundry",
       "description": "Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
       "url": "https://github.com/foundry-rs/foundry",
-      "price": "free",
       "category": "Web3 and Blockchain Testing Tools",
       "channel": 86
     },
     {
       "id": "ganache",
       "name": "Ganache",
-      "description": "Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.",
+      "description": "Personal Ethereum Blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.",
       "url": "https://trufflesuite.com/ganache/",
-      "price": "free",
       "category": "Web3 and Blockchain Testing Tools",
       "channel": 25
     },
@@ -853,7 +696,6 @@
       "name": "Hardhat",
       "description": "Multichain Ethereum development environment.",
       "url": "https://hardhat.org/",
-      "price": "free",
       "category": "Web3 and Blockchain Testing Tools",
       "channel": 9
     },
@@ -862,7 +704,6 @@
       "name": "Robot Framework Solidity Testing Toolkit",
       "description": "This combines popular smart contract testing and deployment libraries with Robot Framework.",
       "url": "https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit",
-      "price": "free",
       "category": "Web3 and Blockchain Testing Tools",
       "channel": 29
     },
@@ -871,43 +712,86 @@
       "name": "Truffle Suites",
       "description": "Comprehensive suite of tools for smart contract development.",
       "url": "https://trufflesuite.com/",
-      "price": "free",
       "category": "Web3 and Blockchain Testing Tools",
       "channel": 56
     },
     {
+      "id": "axe-devtools",
+      "name": "axe DevTools",
+      "description": "Industry-standard accessibility testing toolkit by Deque. Browser extension and CLI that checks against WCAG 2.2 standards. Powers accessibility testing in many CI/CD pipelines.",
+      "url": "https://www.deque.com/axe/devtools/",
+      "category": "Accessibility Testing Tools",
+      "channel": 55
+    },
+    {
+      "id": "axe-core",
+      "name": "axe-core",
+      "description": "An open-source accessibility testing engine for automated web UI testing. Created by Deque Systems, it powers many other accessibility tools and integrates with Selenium, Playwright, Cypress, and more.",
+      "url": "https://github.com/dequelabs/axe-core",
+      "category": "Accessibility Testing Tools",
+      "channel": 56
+    },
+    {
+      "id": "lighthouse",
+      "name": "Lighthouse",
+      "description": "An open-source automated tool by Google for improving the quality of web pages. Includes accessibility audits powered by axe-core alongside performance, SEO, and best practices checks. Built into Chrome DevTools.",
+      "url": "https://developer.chrome.com/docs/lighthouse",
+      "category": "Accessibility Testing Tools",
+      "channel": 15
+    },
+    {
+      "id": "pa11y",
+      "name": "Pa11y",
+      "description": "An open-source command-line accessibility testing tool that runs automated tests against web pages using HTML CodeSniffer and axe-core. Supports WCAG 2.1 AA/AAA and Section 508 standards, with multiple reporters and CI/CD integration.",
+      "url": "https://pa11y.org/",
+      "category": "Accessibility Testing Tools",
+      "channel": 81
+    },
+    {
+      "id": "ratedwithai",
+      "name": "RatedWithAI",
+      "description": "An AI-powered website accessibility scanner that checks against WCAG 2.2 and ADA standards. Provides instant compliance reports with actionable remediation steps. Supports single page scans and full site monitoring.",
+      "url": "https://ratedwithai.com/",
+      "category": "Accessibility Testing Tools",
+      "channel": 24
+    },
+    {
+      "id": "wave",
+      "name": "WAVE",
+      "description": "A suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. Developed by WebAIM, it provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.",
+      "url": "https://wave.webaim.org/",
+      "category": "Accessibility Testing Tools",
+      "channel": 94
+    },
+    {
       "id": "beeceptor",
       "name": "Beeceptor",
-      "description": "Beeceptor is a cloud based platform for API mocking, debugging, and traffic inspection that provides customizable endpoints for multi-protocol (HTTP, SOAP, GraphQL and gRPC) API services. It offers rule based request and state matching, error and latency simulations, CRUD and stateful mocking, and service virtualization using API specification formats, and offers various other features.",
+      "description": "Cloud based platform for API mocking, debugging, and traffic inspection that provides customizable endpoints for multi-protocol (HTTP, SOAP, GraphQL and gRPC) API services. It offers rule based request and state matching, error and latency simulations, CRUD and stateful mocking, and service virtualization using API specification formats, and offers various other features.",
       "url": "https://beeceptor.com/",
-      "price": "freemium",
       "category": "Contract Testing Tools",
       "channel": 70
     },
     {
       "id": "jsonschema",
       "name": "JsonSchema",
-      "description": "Pact can not be used in situation where you cannot load data into the provider without using the API that you're actually testing (eg. public APIs). Sometimes you would want to check only the semantic and structure of the API. (eg. as a web client, you are interested in nature of the data.), JSONSchema, would be perfect choice for that. There are",
-      "url": "http://json-schema.org/",
-      "price": "free",
+      "description": "JSON Schema validates the structure and semantics of JSON data. It is a good fit for contract testing public APIs where you cannot control provider state (a case Pact cannot cover), and validators exist for many languages.",
+      "url": "https://json-schema.org/",
       "category": "Contract Testing Tools",
       "channel": 80
     },
     {
       "id": "pact",
       "name": "Pact",
-      "description": "In Microservice era, managing contract between two services has become crucial part. Originally started by a development team at realestate.com.au, where they were trying to figure out how to write integration testing for their microservice architecture and later ended up as a consumer driven contract testing tool.Unlike a schema or specification, which is a static artifact that describes all possible states of a resource, a Pact contract is enforced by executing a collection of test cases, each of which describes a single concrete request/response pair - Pact is, in effect, \"contract by example\".",
+      "description": "In Microservice era, managing contract between two services has become crucial part. Originally started by a development team at realestate.com.au, where they were trying to figure out how to write integration testing for their microservice architecture and later ended up as a consumer driven contract testing tool. Unlike a schema or specification, which is a static artifact that describes all possible states of a resource, a Pact contract is enforced by executing a collection of test cases, each of which describes a single concrete request/response pair - Pact is, in effect, \"contract by example\".",
       "url": "https://docs.pact.io/",
-      "price": "free",
       "category": "Contract Testing Tools",
       "channel": 71
     },
     {
       "id": "restqa",
       "name": "RestQA",
-      "description": "A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.",
+      "description": "A REST API testing Framework based on Gherkin to manage microservice local testing using the best in class Developer experience.",
       "url": "https://github.com/restqa/restqa",
-      "price": "free",
       "category": "Contract Testing Tools",
       "channel": 24
     },
@@ -916,7 +800,6 @@
       "name": "Spiderhash",
       "description": "Webhook debugging and request inspection tool for capturing, inspecting, and troubleshooting inbound webhook deliveries with replay-friendly workflows for API integrations.",
       "url": "https://spiderhash.io/",
-      "price": "freemium",
       "category": "Contract Testing Tools",
       "channel": 72
     },
@@ -925,7 +808,6 @@
       "name": "WireMock",
       "description": "A popular, open-source tool and Java library for creating flexible mock multi-protocol APIs that allows developers to stub responses, verify requests, and inject faults for local testing. Also offers a paid cloud offering (WireMock Cloud), which is a managed, hosted version that adds an intuitive web UI, team collaboration, enterprise-grade features like chaos testing and API security, and unlimited scalability and usage.",
       "url": "https://wiremock.org/",
-      "price": "freemium",
       "category": "Contract Testing Tools",
       "channel": 91
     }

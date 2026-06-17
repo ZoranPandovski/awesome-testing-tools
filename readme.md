@@ -4,7 +4,7 @@
 	<img width="600" src="media/testing-tools.jpeg" alt="Awesome Testing Tools">
 </p>
 
-> A curated list of awesome tools for software testing.
+> Software testing tools for automated, load, mobile, penetration, test observability, Web3/blockchain, accessibility, and contract testing.
 
 ## Contents
 
@@ -29,7 +29,7 @@
 - [Cucumber](https://docs.cucumber.io/) - Open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in [Gherkin](https://docs.cucumber.io/gherkin/). Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara.
 - [Cypress](https://www.cypress.io/) - JavaScript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples.
 - [GoCodeo](https://www.gocodeo.com) - Your ultimate AI-powered extension for coding and testing in Visual Studio Code. Generate production-ready code and tests in seconds, and leverage the power of the latest AI models, including cutting-edge Large Language Models (LLMs) like Claude Sonnet 3.5, GPT - 4o, GPT - 4o mini, Gemini 1.5 Flash, Gemini 1.5 Pro, without any cost.
-- [GoConvey](http://goconvey.co/) - Behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests.
+- [GoConvey](https://github.com/smartystreets/goconvey) - Behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests.
 - [Guara](https://guara.readthedocs.io/en/latest/) - Guará is a Python framework designed to simplify UI test automation. Inspired by design patterns like Page Objects, App Actions, and Screenplay, Guará focuses on Page Transactions—encapsulating user interactions (transactions) on web pages, such as Login, Logout, or Form Submissions. It’s not just a tool; it’s a programming pattern that can be adapted to any web driver.
 - [Gwirian](https://www.gwirian.com/) - Open source BDD test management platform for QA teams. Create and organize features, define scenarios in Given/When/Then format, and track execution status—with full-text search, dashboards, and a modern UI. Self-host for free or try the hosted app.
 - [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, with integrations for popular tools such as Storybook, Playwright, and Cypress.
@@ -70,7 +70,7 @@
 - [Watir](http://watir.com/) - Open-source cross-platform web application testing tool. It is most reliable and flexible automation tool of Ruby libraries for web browsers automation. This cross browser testing tool interacts with a browser just like human being so it clicks links, filling out forms and validating text.
 - [WHITE](https://github.com/TestStack/White) - Open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages.
 - [Wopee.io](https://wopee.io/) - Autonomous testing platform that uses visual AI to automatically validate web applications. It integrates with Playwright, Cypress, and other frameworks to provide visual regression testing, autonomous test maintenance, and AI-powered test result analysis.
-- [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
+- [Zato API Test](https://zato.io/) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 - [Zyntra](https://zyntra.app/) - Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
 
 ## Load Testing Tools
@@ -147,7 +147,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 
 
 - [Beeceptor](https://beeceptor.com/) - Cloud based platform for API mocking, debugging, and traffic inspection that provides customizable endpoints for multi-protocol (HTTP, SOAP, GraphQL and gRPC) API services. It offers rule based request and state matching, error and latency simulations, CRUD and stateful mocking, and service virtualization using API specification formats, and offers various other features.
-- [JsonSchema](https://json-schema.org/) - JSON Schema validates the structure and semantics of JSON data. It is a good fit for contract testing public APIs where you cannot control provider state (a case Pact cannot cover), and [validators](https://json-schema.org/implementations.html) exist for many languages.
+- [JsonSchema](https://json-schema.org/) - JSON Schema validates the structure and semantics of JSON data. It is a good fit for contract testing public APIs where you cannot control provider state (a case Pact cannot cover), and [validators](https://json-schema.org/tools) exist for many languages.
 - [Pact](https://docs.pact.io/) - In Microservice era, managing contract between two services has become crucial part. Originally started by a development team at realestate.com.au, where they were trying to figure out how to write integration testing for their microservice architecture and later ended up as a [consumer driven contract testing](https://martinfowler.com/articles/consumerDrivenContracts.html) tool. Unlike a schema or specification, which is a static artifact that describes all possible states of a resource, a Pact contract is enforced by executing a collection of test cases, each of which describes a single concrete request/response pair - Pact is, in effect, "contract by example".
 - [RestQA](https://github.com/restqa/restqa) - A REST API testing Framework based on Gherkin to manage microservice local testing using the best in class Developer experience.
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for capturing, inspecting, and troubleshooting inbound webhook deliveries with replay-friendly workflows for API integrations.
