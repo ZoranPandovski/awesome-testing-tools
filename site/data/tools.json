@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T11:46:12.063Z",
+  "generatedAt": "2026-07-02T21:02:56.279Z",
   "categories": [
     "Automated Testing Tools",
     "Load Testing Tools",
@@ -10,6 +10,14 @@
     "Contract Testing Tools"
   ],
   "tools": [
+    {
+      "id": "agent-qa",
+      "name": "agent-qa",
+      "description": "Open-source agentic QA harness for natural-language web and mobile tests with self-healing execution, memory, a CLI, and a dashboard.",
+      "url": "https://github.com/vostride/agent-qa",
+      "category": "Automated Testing Tools",
+      "channel": 47
+    },
     {
       "id": "athena",
       "name": "Athena",

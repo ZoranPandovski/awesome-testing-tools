@@ -18,6 +18,7 @@
 
 ## Automated Testing Tools
 
+- [agent-qa](https://github.com/vostride/agent-qa) - Open-source agentic QA harness for natural-language web and mobile tests with self-healing execution, memory, a CLI, and a dashboard.
 - [Athena](https://athena-oss.github.io/) - Automation platform with a plugin architecture that allows you to easily create and share services.
 - [Ava](https://github.com/avajs/ava) - Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging.
