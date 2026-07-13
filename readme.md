@@ -20,6 +20,7 @@
 
 - [Athena](https://athena-oss.github.io/) - Automation platform with a plugin architecture that allows you to easily create and share services.
 - [Ava](https://github.com/avajs/ava) - Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.
+- [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) - Curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging.
 - [BugBug](https://bugbug.io) - Lightweight test automation tool designed exclusively for web applications. It uses a Chrome extension to record and playback tests. It's free, you only need to pay if you want to schedule cloud monitoring or integrate it with your CI/CD pipelines.
 - [Caqui](https://douglasdcm.github.io/caqui/) - Executes commands against Drivers synchronously and asynchronously. The intention is that the user does not worry about which Driver they're using. It can be WebDrivers like Selenium, MobileDrivers like Appium, or DesktopDrivers like Winium.
