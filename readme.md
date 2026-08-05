@@ -95,6 +95,7 @@
 - [React Native Testing Library](https://callstack.github.io/react-native-testing-library/) - The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices.
 - [Robolectric](http://robolectric.org/) - Open source test framework for Android. It provides faster unit-testing by running tests inside JVM.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. It captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+- [QAPractices Mobile Testing](https://qapractices.com/topics/mobile-testing/) - Curated hub with mobile testing checklists, test cases and guides for Android and iOS.
 
 ## Penetration Testing Tools
 
