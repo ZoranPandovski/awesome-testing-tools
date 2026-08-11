@@ -119,6 +119,7 @@
 
 Accessibility testing ensures that web applications and websites are usable by people with disabilities, in compliance with standards like WCAG 2.1/2.2 and regulations such as ADA, Section 508, and the European Accessibility Act.
 
+- [a11y-matrix](https://github.com/henriqueyuri00/a11y-matrix) - Runs axe-core across the browser states a single CI run never enters: dark mode, reduced motion, forced colors, mobile, and the 320px reflow width WCAG 1.4.10 requires. Reports only the findings present in one state and absent from the baseline, so each is attributed to the preference that exposed it. CLI and GitHub Action, MIT.
 - [axe DevTools](https://www.deque.com/axe/devtools/) - Industry-standard accessibility testing toolkit by Deque. Browser extension and CLI that checks against WCAG 2.2 standards. Powers accessibility testing in many CI/CD pipelines.
 - [axe-core](https://github.com/dequelabs/axe-core) - An open-source accessibility testing engine for automated web UI testing. Created by Deque Systems, it powers many other accessibility tools and integrates with Selenium, Playwright, Cypress, and more.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse) - An open-source automated tool by Google for improving the quality of web pages. Includes accessibility audits powered by axe-core alongside performance, SEO, and best practices checks. Built into Chrome DevTools.
