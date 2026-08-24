@@ -125,6 +125,7 @@ Accessibility testing ensures that web applications and websites are usable by p
 - [Pa11y](https://pa11y.org/) - An open-source command-line accessibility testing tool that runs automated tests against web pages using HTML CodeSniffer and axe-core. Supports WCAG 2.1 AA/AAA and Section 508 standards, with multiple reporters and CI/CD integration.
 - [RatedWithAI](https://ratedwithai.com/) - An AI-powered website accessibility scanner that checks against WCAG 2.2 and ADA standards. Provides instant compliance reports with actionable remediation steps. Supports single page scans and full site monitoring.
 - [WAVE](https://wave.webaim.org/) - A suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. Developed by WebAIM, it provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.
+- [Color Contrast Checker](https://alltoolsverse.com/tools/color-contrast-checker/) - Checks WCAG 2 contrast ratios for foreground and background colors, with AA and AAA results and live previews.
 
 ## Contract Testing Tools
 
