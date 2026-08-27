@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-06-17T11:39:19.637Z",
+  "generatedAt": "2026-06-19T11:46:12.063Z",
   "categories": [
     "Automated Testing Tools",
     "Load Testing Tools",
     "Mobile Testing Tools",
     "Penetration Testing Tools",
     "Test Observability Tools",
-    "Web3 and Blockchain Testing Tools",
     "Accessibility Testing Tools",
     "Contract Testing Tools"
   ],
@@ -22,7 +21,7 @@
     {
       "id": "ava",
       "name": "Ava",
-      "description": "Test runner for Node.js with a concise API, detailed error output, embrace of new language features and process isolation that let you write tests more effectively. So you can ship more awesome code.",
+      "description": "Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.",
       "url": "https://github.com/avajs/ava",
       "category": "Automated Testing Tools",
       "channel": 52
@@ -86,7 +85,7 @@
     {
       "id": "gocodeo",
       "name": "GoCodeo",
-      "description": "Your ultimate AI-powered extension for coding and testing in Visual Studio Code. Generate production-ready code and tests in seconds, and leverage the power of the latest AI models, including cutting-edge Large Language Models (LLMs) like Claude Sonnet 3.5, GPT - 4o, GPT - 4o mini, Gemini 1.5 Flash, Gemini 1.5 Pro, without any cost.",
+      "description": "AI-powered VS Code extension that generates code and tests using large language models such as Claude, GPT-4o, and Gemini.",
       "url": "https://www.gocodeo.com",
       "category": "Automated Testing Tools",
       "channel": 31
@@ -182,7 +181,7 @@
     {
       "id": "katalon-studio",
       "name": "Katalon Studio",
-      "description": "Powerful test automation solution for web application, mobile, and web services. Being built on top of the Selenium and Appium frameworks, Katalon Studio takes advantage of these solutions for integrated software automation.",
+      "description": "Test automation solution for web, mobile, and web services, built on top of the Selenium and Appium frameworks.",
       "url": "https://www.katalon.com/",
       "category": "Automated Testing Tools",
       "channel": 1
@@ -246,7 +245,7 @@
     {
       "id": "pestphp",
       "name": "PestPHP",
-      "description": "The elegant PHP testing framework. Pest is a testing framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.",
+      "description": "PHP testing framework with a focus on simplicity.",
       "url": "https://pestphp.com/",
       "category": "Automated Testing Tools",
       "channel": 60
@@ -334,7 +333,7 @@
     {
       "id": "telerik",
       "name": "Telerik",
-      "description": "The complete test automation solution for GUI, Performance, Load and API testing.Test web, mobile and desktop applications.",
+      "description": "Test automation for GUI, performance, load, and API testing across web, mobile, and desktop applications.",
       "url": "https://www.telerik.com/",
       "category": "Automated Testing Tools",
       "channel": 57
@@ -350,7 +349,7 @@
     {
       "id": "testcomplete",
       "name": "TestComplete",
-      "description": "Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls.",
+      "description": "Automated UI functional testing tool with record-and-playback and a customizable object repository for web, desktop, and mobile applications.",
       "url": "https://smartbear.com/",
       "category": "Automated Testing Tools",
       "channel": 82
@@ -358,7 +357,7 @@
     {
       "id": "testim",
       "name": "Testim",
-      "description": "Modern day automated testing tool. It uses machine learning to speed the authoring, execution, and maintenance of automated tests. The tester can be analysis any test case in few minutes and execute them on multiple web and mobile platforms.",
+      "description": "Automated testing tool that uses machine learning to author, execute, and maintain tests across web and mobile platforms.",
       "url": "https://www.testim.io/",
       "category": "Automated Testing Tools",
       "channel": 54
@@ -398,7 +397,7 @@
     {
       "id": "watir",
       "name": "Watir",
-      "description": "Open-source cross-platform web application testing tool. It is most reliable and flexible automation tool of Ruby libraries for web browsers automation. This cross browser testing tool interacts with a browser just like human being so it clicks links, filling out forms and validating text.",
+      "description": "Open-source cross-platform web application testing tool. A family of Ruby libraries for automating web browsers; it interacts with a browser the way a person would, clicking links, filling out forms, and validating text.",
       "url": "http://watir.com/",
       "category": "Automated Testing Tools",
       "channel": 12
@@ -542,7 +541,7 @@
     {
       "id": "maestro",
       "name": "Maestro",
-      "description": "Simplest and most effective mobile(Android/iOS) UI testing framework.",
+      "description": "Mobile UI testing framework for Android and iOS.",
       "url": "https://www.mobile.dev/",
       "category": "Mobile Testing Tools",
       "channel": 39
@@ -598,7 +597,7 @@
     {
       "id": "kali-linux",
       "name": "Kali Linux",
-      "description": "New generation of the industry-leading BackTrack Linux penetration testing and security auditing Linux distribution. Kali Linux is a complete re-build of BackTrack from the ground up, adhering completely to Debian development standards.",
+      "description": "Penetration testing and security auditing Linux distribution, a complete re-build of BackTrack adhering to Debian development standards.",
       "url": "https://www.kali.org/",
       "category": "Penetration Testing Tools",
       "channel": 69
@@ -630,7 +629,7 @@
     {
       "id": "owasp",
       "name": "OWASP",
-      "description": "The OWASP Zed Attack Proxy (ZAP) is one of the world's most popular free security tools and is actively maintained by hundreds of international volunteers*. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.",
+      "description": "The OWASP Zed Attack Proxy (ZAP) is a free, open-source security tool maintained by international volunteers. It finds security vulnerabilities in web applications automatically during development and testing, and also supports manual security testing.",
       "url": "https://www.owasp.org/",
       "category": "Penetration Testing Tools",
       "channel": 6
@@ -646,7 +645,7 @@
     {
       "id": "wireshark",
       "name": "Wireshark",
-      "description": "World's foremost and widely-used network protocol analyzer. It lets you see what's happening on your network at a microscopic level.",
+      "description": "Widely-used network protocol analyzer that lets you see what's happening on your network at a microscopic level.",
       "url": "https://www.wireshark.org/",
       "category": "Penetration Testing Tools",
       "channel": 65
@@ -666,54 +665,6 @@
       "url": "https://testdino.com/",
       "category": "Test Observability Tools",
       "channel": 75
-    },
-    {
-      "id": "dapp-tools",
-      "name": "Dapp.tools",
-      "description": "Command line tools and smart contract libraries for Ethereum smart contract development.",
-      "url": "https://dapp.tools/",
-      "category": "Web3 and Blockchain Testing Tools",
-      "channel": 89
-    },
-    {
-      "id": "foundry",
-      "name": "Foundry",
-      "description": "Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
-      "url": "https://github.com/foundry-rs/foundry",
-      "category": "Web3 and Blockchain Testing Tools",
-      "channel": 86
-    },
-    {
-      "id": "ganache",
-      "name": "Ganache",
-      "description": "Personal Ethereum Blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.",
-      "url": "https://trufflesuite.com/ganache/",
-      "category": "Web3 and Blockchain Testing Tools",
-      "channel": 25
-    },
-    {
-      "id": "hardhat",
-      "name": "Hardhat",
-      "description": "Multichain Ethereum development environment.",
-      "url": "https://hardhat.org/",
-      "category": "Web3 and Blockchain Testing Tools",
-      "channel": 9
-    },
-    {
-      "id": "robot-framework-solidity-testing-toolkit",
-      "name": "Robot Framework Solidity Testing Toolkit",
-      "description": "This combines popular smart contract testing and deployment libraries with Robot Framework.",
-      "url": "https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit",
-      "category": "Web3 and Blockchain Testing Tools",
-      "channel": 29
-    },
-    {
-      "id": "truffle-suites",
-      "name": "Truffle Suites",
-      "description": "Comprehensive suite of tools for smart contract development.",
-      "url": "https://trufflesuite.com/",
-      "category": "Web3 and Blockchain Testing Tools",
-      "channel": 56
     },
     {
       "id": "axe-devtools",
@@ -790,7 +741,7 @@
     {
       "id": "restqa",
       "name": "RestQA",
-      "description": "A REST API testing Framework based on Gherkin to manage microservice local testing using the best in class Developer experience.",
+      "description": "REST API testing framework based on Gherkin for local microservice testing.",
       "url": "https://github.com/restqa/restqa",
       "category": "Contract Testing Tools",
       "channel": 24
