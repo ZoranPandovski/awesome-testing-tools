@@ -45,6 +45,7 @@
 - [Mocha](https://mochajs.org/) - Open-source JavaScript Testing Framework that runs on Node.js.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
+- [Muraqib](https://github.com/holistis/muraqib) - Nightly QA guardian for solo SaaS founders. Playwright tests your live app, Claude fixes failing tests automatically, you get one weekly email.
 - [Nightwatch.js](https://nightwatchjs.org/) - Integrated framework for performing automated end-to-end testing on web applications and websites, across all major browsers. It is written in Node.js and uses the W3C WebDriver API to interact with various browsers.
 - [Panaya Test Dynamix](https://www.panaya.com/testing/) - With Test Dynamix, you can quickly manage tests with automatic workflows, easy documentation, real-time analytics, and smart change analysis.
 - [PestPHP](https://pestphp.com/) - PHP testing framework with a focus on simplicity.
