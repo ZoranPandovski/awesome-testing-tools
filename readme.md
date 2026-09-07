@@ -115,6 +115,7 @@
 
 - [Datadog](https://www.datadoghq.com/) - Monitoring, security and analytics platform for developers, IT operations teams, security engineers and business users in the cloud age. Datadog's SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of their customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.
 - [TestDino](https://testdino.com/) - Test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run at the process and socket boundary and replays it offline with the network off, making an agent failure deterministic and reproducible instead of intermittent.
 
 ## Accessibility Testing Tools
 
