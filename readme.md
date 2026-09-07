@@ -70,6 +70,7 @@
 - [Watir](http://watir.com/) - Open-source cross-platform web application testing tool. A family of Ruby libraries for automating web browsers; it interacts with a browser the way a person would, clicking links, filling out forms, and validating text.
 - [WHITE](https://github.com/TestStack/White) - Open-source, written in C# and it supports all rich client applications, which are Win32, WinForm, WPF and SWT (Java). It is .NET based and does not require the use of any proprietary scripting languages.
 - [Wopee.io](https://wopee.io/) - Autonomous testing platform that uses visual AI to automatically validate web applications. It integrates with Playwright, Cypress, and other frameworks to provide visual regression testing, autonomous test maintenance, and AI-powered test result analysis.
+- [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) - Longitudinal evaluation and immutable evidence for agent runs: each candidate executes in a private fresh-repository workspace behind a selective filesystem sandbox, is evaluated with ordered deterministic and LLM-judge profiles, and is retained as hash-linked receipts, manifests, and provenance.
 - [Zato API Test](https://zato.io/) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 - [Zyntra](https://zyntra.app/) - Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
 
