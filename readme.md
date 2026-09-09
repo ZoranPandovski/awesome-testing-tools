@@ -17,7 +17,7 @@
 - [Contract Testing Tools](#contract-testing-tools)
 
 ## Automated Testing Tools
-
+- [ARADURU File Format Test Corpus](https://teamaraduru-hub.github.io/araduru-file-format-test-corpus/) - Open CC0 corpus of deterministic healthy and intentionally broken XLSX, DOCX, PPTX, ZIP, and PDF fixtures with SHA-256 manifests for file validation, parser, upload, and QA testing.
 - [Athena](https://athena-oss.github.io/) - Automation platform with a plugin architecture that allows you to easily create and share services.
 - [Ava](https://github.com/avajs/ava) - Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging.
