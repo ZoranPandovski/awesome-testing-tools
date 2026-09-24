@@ -43,6 +43,7 @@
 - [kogiQA](https://kogiqa.com/) - UI automation tool that works without selectors, so one can simply type `page.click('Submit')` it just has to match the meaning you see on the page.
 - [LambdaTest](https://www.lambdatest.com/) - Cloud-based cross-browser testing platform that allows you to test your website or web application on 2000+ real browsers and operating systems. It is a fully managed platform that requires no setup or maintenance.
 - [Mocha](https://mochajs.org/) - Open-source JavaScript Testing Framework that runs on Node.js.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Open-source, zero-dependency engine for checksum-valid financial and identity test data (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes. CLI, Python SDK, Java library, REST API, and JMeter plugin.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
 - [Nightwatch.js](https://nightwatchjs.org/) - Integrated framework for performing automated end-to-end testing on web applications and websites, across all major browsers. It is written in Node.js and uses the W3C WebDriver API to interact with various browsers.
