@@ -120,6 +120,7 @@
 
 Accessibility testing ensures that web applications and websites are usable by people with disabilities, in compliance with standards like WCAG 2.1/2.2 and regulations such as ADA, Section 508, and the European Accessibility Act.
 
+- [AuditReady](https://feaefe371424d0725b266468856c9101.ctonew.app/) - Server-side accessibility scanner that fetches a page's HTML and runs 12 deterministic checks, mapping each finding to its WCAG 2.2 success criterion with a suggested fix, and assembling a client-ready audit report an agency can hand over under its own name. The scan is free and instant for one page; the full report is a one-off $29. No JavaScript runs and nothing is injected into the page (not an overlay), so client-rendered pages report fewer issues than they have.
 - [axe DevTools](https://www.deque.com/axe/devtools/) - Industry-standard accessibility testing toolkit by Deque. Browser extension and CLI that checks against WCAG 2.2 standards. Powers accessibility testing in many CI/CD pipelines.
 - [axe-core](https://github.com/dequelabs/axe-core) - An open-source accessibility testing engine for automated web UI testing. Created by Deque Systems, it powers many other accessibility tools and integrates with Selenium, Playwright, Cypress, and more.
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse) - An open-source automated tool by Google for improving the quality of web pages. Includes accessibility audits powered by axe-core alongside performance, SEO, and best practices checks. Built into Chrome DevTools.
