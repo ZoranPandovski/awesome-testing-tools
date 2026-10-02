@@ -61,6 +61,7 @@
 - [Selenium](https://www.selenium.dev/downloads/) - Automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.
 - [SilkTest](https://www.microfocus.com/en-us/products/silk-test/overview) - Test automation for web, mobile, rich-client, and Enterprise applications.
 - [Squish](https://www.qt.io/product/quality-assurance/squish) - The GUI Testing Tool for automated functional regression and system testing. Squish supports of all kinds of cross-platform desktop, mobile, embedded and web applications.
+- [stateofpixel](https://stateofpixel.com) - Catch UI regressions before they merge. Your CI takes the screenshots with Playwright, Storybook or any tool that writes PNGs, and a person approves each change on the pull request. Open source and self-hostable.
 - [Telerik](https://www.telerik.com/) - Test automation for GUI, performance, load, and API testing across web, mobile, and desktop applications.
 - [TestCafé](https://testcafe.io/) - Open-source cross browser end-to-end functional test automation solution for web application. It is a JS based project, and run test suites on any popular browser without adding any additional code.
 - [Test-proxy-recorder](https://github.com/asmyshlyaev177/test-proxy-recorder) - VCR-style record/replay of real API, SSR & WebSocket traffic for deterministic Playwright tests.
