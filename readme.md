@@ -19,6 +19,7 @@
 ## Automated Testing Tools
 
 - [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web/mobile tests, persistent test memory, and self-healing flows.
+- [ai-wright](https://github.com/TestChimp/ai-wright) - Open-source library that adds AI steps (`ai.act`, `ai.verify`, `ai.extract`) to Playwright tests. It uses screenshots annotated with Set-of-Marks overlays plus DOM metadata, and works with your own OpenAI, Gemini, or Claude API key.
 - [Athena](https://athena-oss.github.io/) - Automation platform with a plugin architecture that allows you to easily create and share services.
 - [Ava](https://github.com/avajs/ava) - Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging.
