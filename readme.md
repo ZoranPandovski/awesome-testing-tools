@@ -18,15 +18,19 @@
 
 ## Automated Testing Tools
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web/mobile tests, persistent test memory, and self-healing flows.
 - [Athena](https://athena-oss.github.io/) - Automation platform with a plugin architecture that allows you to easily create and share services.
 - [Ava](https://github.com/avajs/ava) - Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging.
+- [BrowserBash](https://github.com/PramodDutta/browserbash) - Open-source CLI where an AI agent runs plain-English browser tests in a real Chrome and returns deterministic assertions and CI exit codes. Ships an MCP server so coding agents can validate their own UI work. Runs on free local models, no API keys.
 - [BugBug](https://bugbug.io) - Lightweight test automation tool designed exclusively for web applications. It uses a Chrome extension to record and playback tests. It's free, you only need to pay if you want to schedule cloud monitoring or integrate it with your CI/CD pipelines.
+- [BugShot](https://github.com/SinhyeokKang/bugshot-2) - Chrome side panel that captures a bug and files it as a complete report. Console, network and user-action logs plus environment details are collected automatically in the background, alongside annotated screenshots or tab/screen recordings with a 30s replay buffer. Submits to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp or Slack. Open source, and capture data goes straight from the browser to the tracker without passing through a vendor server.
 - [Caqui](https://douglasdcm.github.io/caqui/) - Executes commands against Drivers synchronously and asynchronously. The intention is that the user does not worry about which Driver they're using. It can be WebDrivers like Selenium, MobileDrivers like Appium, or DesktopDrivers like Winium.
 - [Checkbot](https://www.checkbot.io/) - Browser extension. Tests your site follows 50+ SEO, speed and security best practices. Finds broken links, insecure pages, redirect chains, duplicate content and more. Crawls your site checking multiple pages at once.
 - [CodeceptJS](https://codecept.io/) - E2E testing framework with a special unificated BDD-style syntax for different frameworks.
 - [Cucumber](https://docs.cucumber.io/) - Open-source tool that supports Behaviour-Driven Development (BDD). The tests are written in [Gherkin](https://docs.cucumber.io/gherkin/). Cucumber integrates nicely with Selenium WebDriver, Serenity BDD, Watir and Capybara.
 - [Cypress](https://www.cypress.io/) - JavaScript End-to-End testing framework. It allows you to run e2e tests effortlessly (no need to do a Java/Selenium setup in order to use it) with features such as debugging with Chrome DevTools and screenshots for tests run headlessly. The documentation is good and comes with many examples.
+- [Delivery Acceptance Workbench](https://stomeonst.github.io/delivery-acceptance-workbench/) - Local, read-only QA utility that validates delivery folders against reusable rules and generates traceable JSON and offline HTML acceptance reports.
 - [five46](https://github.com/sekharsdet/five46) - BYOK CLI that drives a real Playwright browser (or real HTTP requests, for API testing) toward a plain-English goal using your own LLM key (OpenAI, Anthropic, Gemini, Groq, or Bedrock), entirely locally, and writes the result as a real, standalone Playwright/node:test file.
 - [GoCodeo](https://www.gocodeo.com) - AI-powered VS Code extension that generates code and tests using large language models such as Claude, GPT-4o, and Gemini.
 - [GoConvey](https://github.com/smartystreets/goconvey) - Behavior-driven development(BDD)-style testing framework that supports the go test command. It uses an expressive domain-specific language (DSL) that facilitates the creation of self-documenting, highly readable tests.
@@ -38,6 +42,7 @@
 - [Jest](https://jestjs.io/) - Open-source JavaScript testing framework, written in TypeScript and developed by Facebook. It supports testing with Babel, TypeScript, Node, React, Angular, Vue and much more!
 - [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - A hardware-in-the-loop testing framework for cloud-native CI/CD pipelines.
 - [JUnit](https://junit.org/) - Open-source unit testing framework for the Java programming language. JUnit has been important in the development of test-driven development and is one of a family of unit testing frameworks which is collectively known as xUnit.
+- [Kane CLI](https://www.testmuai.com/kane-cli/) - AI-powered browser testing tool. Describe a test as a natural-language objective and it runs in a real browser with vision-based waiting and self-healing, returning pass/fail results with shareable run evidence.
 - [Karate](https://github.com/karatelabs/karate) - Open-source tool to combine API test-automation, mocks, performance-testing and even UI automation into a single, unified framework. The BDD syntax popularized by Cucumber is language-neutral, and easy for even non-programmers. Assertions and HTML reports are built-in, and you can run tests in parallel for speed.
 - [Karma](https://karma-runner.github.io) - Can also watch your development files for changes and re-run the tests automatically. Karma lets us run Jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works.
 - [Katalon Studio](https://www.katalon.com/) - Test automation solution for web, mobile, and web services, built on top of the Selenium and Appium frameworks.
@@ -61,8 +66,9 @@
 - [Squish](https://www.qt.io/product/quality-assurance/squish) - The GUI Testing Tool for automated functional regression and system testing. Squish supports of all kinds of cross-platform desktop, mobile, embedded and web applications.
 - [Telerik](https://www.telerik.com/) - Test automation for GUI, performance, load, and API testing across web, mobile, and desktop applications.
 - [TestCafé](https://testcafe.io/) - Open-source cross browser end-to-end functional test automation solution for web application. It is a JS based project, and run test suites on any popular browser without adding any additional code.
-- [TestComplete](https://smartbear.com/) - Automated UI functional testing tool with record-and-playback and a customizable object repository for web, desktop, and mobile applications.
-- [Testim](https://www.testim.io/) - Automated testing tool that uses machine learning to author, execute, and maintain tests across web and mobile platforms.
+- [Test-proxy-recorder](https://github.com/asmyshlyaev177/test-proxy-recorder) - VCR-style record/replay of real API, SSR & WebSocket traffic for deterministic Playwright tests.
+- [TestComplete](https://smartbear.com/) - Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls.
+- [Testim](https://www.testim.io/) - Modern day automated testing tool. It uses machine learning to speed the authoring, execution, and maintenance of automated tests. The tester can be analysis any test case in few minutes and execute them on multiple web and mobile platforms.
 - [testomat.io](https://testomat.io/) - Modern TCMS allows sync the manual and automated tests in one place. Real-time reporting. Rich analytics dashboard with value testing metrics.
 - [The Testing Library](https://testing-library.com/) - Set of helpers that let you test several frameworks, including React, Angular, Vue and their components without relying on their implementation details. This approach makes refactoring a breeze and also nudges you towards best practices for accessibility.
 - [Unified Functional Testing](https://www.opentext.com/products/uft-one) - Cross-browser and multi-platform, Optimized distributed testing, Visual test flows (canvas), Multi-testing solution, Image-based object recognition.
@@ -96,6 +102,7 @@
 - [React Native Testing Library](https://callstack.github.io/react-native-testing-library/) - The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices.
 - [Robolectric](http://robolectric.org/) - Open source test framework for Android. It provides faster unit-testing by running tests inside JVM.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. It captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
+- [tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 
 ## Penetration Testing Tools
 
@@ -114,7 +121,9 @@
 ## Test Observability Tools
 
 - [Datadog](https://www.datadoghq.com/) - Monitoring, security and analytics platform for developers, IT operations teams, security engineers and business users in the cloud age. Datadog's SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of their customers' entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.
+- [Qualflare](https://qualflare.com/test-observability/) - AI test management and observability platform that turns CI results into answers: history-based flaky-test detection, failure clustering by root cause, reliability trends, and release-risk scoring across 23 frameworks.
 - [TestDino](https://testdino.com/) - Test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.
+- [Multiplayer](https://multiplayer.app/) - Open-source debugging agent that runs locally next to coding agents like Claude Code, Codex, and Copilot, capturing full-stack, unsampled runtime session data to catch and fix bugs automatically.
 
 ## Accessibility Testing Tools
 
@@ -125,6 +134,7 @@ Accessibility testing ensures that web applications and websites are usable by p
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse) - An open-source automated tool by Google for improving the quality of web pages. Includes accessibility audits powered by axe-core alongside performance, SEO, and best practices checks. Built into Chrome DevTools.
 - [Pa11y](https://pa11y.org/) - An open-source command-line accessibility testing tool that runs automated tests against web pages using HTML CodeSniffer and axe-core. Supports WCAG 2.1 AA/AAA and Section 508 standards, with multiple reporters and CI/CD integration.
 - [RatedWithAI](https://ratedwithai.com/) - An AI-powered website accessibility scanner that checks against WCAG 2.2 and ADA standards. Provides instant compliance reports with actionable remediation steps. Supports single page scans and full site monitoring.
+- [TrustYourWebsite](https://trustyourwebsite.com) - An automated website compliance scanner for EU and UK small businesses, built on axe-core. It checks accessibility against WCAG along with GDPR/cookie-banner and legal-page compliance, reporting issues only without injecting anything into the page (not an overlay). The free scan returns a risk score and issue counts.
 - [WAVE](https://wave.webaim.org/) - A suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. Developed by WebAIM, it provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.
 
 ## Contract Testing Tools
@@ -141,6 +151,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 - [JsonSchema](https://json-schema.org/) - JSON Schema validates the structure and semantics of JSON data. It is a good fit for contract testing public APIs where you cannot control provider state (a case Pact cannot cover), and [validators](https://json-schema.org/tools) exist for many languages.
 - [Pact](https://docs.pact.io/) - In Microservice era, managing contract between two services has become crucial part. Originally started by a development team at realestate.com.au, where they were trying to figure out how to write integration testing for their microservice architecture and later ended up as a [consumer driven contract testing](https://martinfowler.com/articles/consumerDrivenContracts.html) tool. Unlike a schema or specification, which is a static artifact that describes all possible states of a resource, a Pact contract is enforced by executing a collection of test cases, each of which describes a single concrete request/response pair - Pact is, in effect, "contract by example".
 - [RestQA](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin for local microservice testing.
+- [Specmatic](https://specmatic.io/) - An open source contract testing tool that allows developers to turn API specifications (such as OpenAPI or AsyncAPI) into executable specifications.
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for capturing, inspecting, and troubleshooting inbound webhook deliveries with replay-friendly workflows for API integrations.
 - [WireMock](https://wiremock.org/) - A popular, open-source tool and Java library for creating flexible mock multi-protocol APIs that allows developers to stub responses, verify requests, and inject faults for local testing. Also offers a paid cloud offering (WireMock Cloud), which is a managed, hosted version that adds an intuitive web UI, team collaboration, enterprise-grade features like chaos testing and API security, and unlimited scalability and usage.
 
