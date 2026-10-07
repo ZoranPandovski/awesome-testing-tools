@@ -15,6 +15,7 @@
 - [Test Observability Tools](#test-observability-tools)
 - [Accessibility Testing Tools](#accessibility-testing-tools)
 - [Contract Testing Tools](#contract-testing-tools)
+- [QA Resources](#qa-resources)
 
 ## Automated Testing Tools
 
@@ -157,6 +158,10 @@ Following use cases could be valid for the contract testing in consumer and prov
 - [Specmatic](https://specmatic.io/) - An open source contract testing tool that allows developers to turn API specifications (such as OpenAPI or AsyncAPI) into executable specifications.
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for capturing, inspecting, and troubleshooting inbound webhook deliveries with replay-friendly workflows for API integrations.
 - [WireMock](https://wiremock.org/) - A popular, open-source tool and Java library for creating flexible mock multi-protocol APIs that allows developers to stub responses, verify requests, and inject faults for local testing. Also offers a paid cloud offering (WireMock Cloud), which is a managed, hosted version that adds an intuitive web UI, team collaboration, enterprise-grade features like chaos testing and API security, and unlimited scalability and usage.
+
+## QA Resources
+
+- [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
 
