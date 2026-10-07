@@ -170,6 +170,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 
 ## QA Resources
 
+- [Awesome AI Testing](https://github.com/tugkanboz/awesome-ai-testing) - Curated list of AI-powered testing tools, frameworks, and resources for QA engineers, covering test generation, self-healing automation, MCP-based testing, and LLM-as-judge evaluation.
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
