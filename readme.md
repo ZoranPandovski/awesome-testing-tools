@@ -15,6 +15,7 @@
 - [Test Observability Tools](#test-observability-tools)
 - [Accessibility Testing Tools](#accessibility-testing-tools)
 - [Contract Testing Tools](#contract-testing-tools)
+- [QA Resources](#qa-resources)
 
 ## Automated Testing Tools
 
@@ -71,7 +72,6 @@
 - [Wopee.io](https://wopee.io/) - Autonomous testing platform that uses visual AI to automatically validate web applications. It integrates with Playwright, Cypress, and other frameworks to provide visual regression testing, autonomous test maintenance, and AI-powered test result analysis.
 - [Zato API Test](https://zato.io/) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 - [Zyntra](https://zyntra.app/) - Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
-- [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Load Testing Tools
 
@@ -143,6 +143,10 @@ Following use cases could be valid for the contract testing in consumer and prov
 - [RestQA](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin for local microservice testing.
 - [Spiderhash](https://spiderhash.io/) - Webhook debugging and request inspection tool for capturing, inspecting, and troubleshooting inbound webhook deliveries with replay-friendly workflows for API integrations.
 - [WireMock](https://wiremock.org/) - A popular, open-source tool and Java library for creating flexible mock multi-protocol APIs that allows developers to stub responses, verify requests, and inject faults for local testing. Also offers a paid cloud offering (WireMock Cloud), which is a managed, hosted version that adds an intuitive web UI, team collaboration, enterprise-grade features like chaos testing and API security, and unlimited scalability and usage.
+
+## QA Resources
+
+- [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
 
