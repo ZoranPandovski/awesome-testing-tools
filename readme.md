@@ -170,6 +170,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 
 ## QA Resources
 
+- [Manual Email Verification QA Reference](https://8m30mail.com/guides/manual-email-verification-testing) - A reference for manual signup, OTP and verification-link checks, including message selection and non-sensitive failure evidence.
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
