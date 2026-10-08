@@ -170,6 +170,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 
 ## QA Resources
 
+- [FirstPass Developer Tool Release Checklist](https://mmxfq.github.io/firstpass-site/release-checklist.html) - Free, no-signup checklist for validating package discovery, clean installation, help output, the first useful command, failure behavior, documentation, and acceptance evidence before publishing a CLI or developer tool.
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
