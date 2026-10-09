@@ -10,6 +10,9 @@
 
 - [Automated Testing Tools](#automated-testing-tools)
 - [Load Testing Tools](#load-testing-tools)
+- [Speed Testing Tools](#speed-testing-tools)
+- [Network Testing Tools](#network-testing-tools)
+- [Database Testing Tools](#database-testing-tools)
 - [Mobile Testing Tools](#mobile-testing-tools)
 - [Penetration Testing Tools](#penetration-testing-tools)
 - [Test Observability Tools](#test-observability-tools)
@@ -50,6 +53,7 @@
 - [Karma](https://karma-runner.github.io) - Can also watch your development files for changes and re-run the tests automatically. Karma lets us run Jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works.
 - [Katalon Studio](https://www.katalon.com/) - Test automation solution for web, mobile, and web services, built on top of the Selenium and Appium frameworks.
 - [kogiQA](https://kogiqa.com/) - UI automation tool that works without selectors, so one can simply type `page.click('Submit')` it just has to match the meaning you see on the page.
+- [LoadVM](https://loadvm.com/functional-qa-testing) - Web-based functional QA testing for expected page text, loading failures, and JavaScript errors on desktop and mobile.
 - [Mocha](https://mochajs.org/) - Open-source JavaScript Testing Framework that runs on Node.js.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
@@ -97,10 +101,23 @@
 - [Grafana K6](https://k6.io) - Open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible.
 - [Jmeter](http://jmeter.apache.org/) - The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
 - [LoadUI](https://www.soapui.org/) - Scriptless Load Testing for REST & SOAP APIs.
+- [LoadVM](https://loadvm.com/load-testing) - Web-based load, stress, and API performance testing with response-time, throughput, and error reports.
 - [Locust](https://locust.io/) - Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 - [th2-loader](https://exactpro.com/test-tools/th2-loader) - Enterprise-grade load and simulation platform for exchanges, trading venues, market data systems, and post-trade infrastructures. It combines high-volume load generation, failover testing, production-data replay, protocol-aware simulation, and reconciliation to identify performance, resilience and correctness defects under realistic market stress. It supports FIX, ITCH, OUCH, FAST, REST, WebSocket, and proprietary protocols.
 - [WAPT](https://www.loadtestingtool.com/) - Test the Performance of Web Applications Under Load.
 
+
+## Speed Testing Tools
+
+- [LoadVM](https://loadvm.com/speed-testing) - Web-based page-speed testing with performance metrics and browser recommendations.
+
+## Network Testing Tools
+
+- [LoadVM](https://loadvm.com/network-load-testing) - Network throughput testing between approved servers with transfer-rate, data-cap, and duration controls.
+
+## Database Testing Tools
+
+- [LoadVM](https://loadvm.com/database-load-testing) - Database load testing with read workloads and latency, throughput, and failure measurements as concurrency increases.
 
 ## Mobile Testing Tools
 
@@ -120,6 +137,7 @@
 - [Burp Suite](https://portswigger.net/burp/) - Graphical tool and integrated platform for testing Web application security. Its various tools work seamlessly together to support the entire testing process, from initial mapping and analysis of an application's attack surface, to finding and exploiting security vulnerabilities.
 - [John-the-ripper](https://www.openwall.com/john/) - John the Ripper is an open source tool that cracks encryption and carries out brute force password attacks. It can crack passwords using lists of common words in over 20 languages, custom keyword lists, using mangling rules to try different variations of each word. It is a very robust tool that can run on a local machine for as long as needed to crack a set of passwords.
 - [Kali Linux](https://www.kali.org/) - Penetration testing and security auditing Linux distribution, a complete re-build of BackTrack adhering to Debian development standards.
+- [LoadVM](https://loadvm.com/security-checks) - Web-based security testing with authorized injection checks and security evidence for verified endpoints.
 - [MetaSploit](https://www.metasploit.com/) - A collaboration between the open source community and Rapid7, Metasploit helps security teams do more than just verify vulnerabilities, manage security assessments, and improve security awareness; it empowers and arms defenders to always stay one step (or two) ahead of the game.
 - [NetSparker](https://www.netsparker.com/) - Automatic, dead accurate and easy-to-use web application security scanner to automatically find security flaws in your websites, web applications and web services.
 - [Nmap](https://nmap.org/) - An open-source network scanner with many features to discover what is available over the network including hosts, services and operating systems.
