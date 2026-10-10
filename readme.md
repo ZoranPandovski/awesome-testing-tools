@@ -170,6 +170,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 
 ## QA Resources
 
+- [Check a browser-agent result before timing it](https://github.com/liubrain39/browsesprint-resources/blob/codex/public-resources/docs/browser-result-verification.md) - Worked examples of verifying browser-task completion through receipts and public HTML, with a read-only Python check and limits on timing conclusions.
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
