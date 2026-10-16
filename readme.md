@@ -105,6 +105,7 @@
 ## Mobile Testing Tools
 
 - [Appium](http://appium.io/) - Open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol.
+- [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Free, open-source macOS app to mirror and control Android emulators, phones and iOS simulators for manual QA, with device controls (network, location, permissions, push), logs, screenshots and recordings.
 - [Espresso](https://developer.android.com/training/testing/espresso) - Mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment.
 - [Experitest](https://experitest.com/) - Perform continuous web and mobile app testing to accelerate release cycles and increase quality.
 - [FlyTrap](https://flytrap.dev/) - Exploratory testing agent that finds bugs, crashes, and UX issues in Android and iOS apps. Point it at a Play Store listing, TestFlight build, or app binary and it explores the app like a real tester, no scripts or setup needed. Findings are ready to file in Jira, Linear, and GitHub.
