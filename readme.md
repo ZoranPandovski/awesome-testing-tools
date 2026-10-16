@@ -55,6 +55,7 @@
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
 - [Muraqib](https://github.com/holistis/muraqib) - Nightly QA guardian for solo SaaS founders. Playwright tests your live app, Claude fixes failing tests automatically, you get one weekly email.
 - [Nightwatch.js](https://nightwatchjs.org/) - Integrated framework for performing automated end-to-end testing on web applications and websites, across all major browsers. It is written in Node.js and uses the W3C WebDriver API to interact with various browsers.
+- [Openhook](https://github.com/openhook-dev/openhook-inbox) - Open-source inbox for capturing HTTP webhooks, email, and DNS callbacks, with an API and MCP tools for inspecting events during integration tests.
 - [Panaya Test Dynamix](https://www.panaya.com/testing/) - With Test Dynamix, you can quickly manage tests with automatic workflows, easy documentation, real-time analytics, and smart change analysis.
 - [PestPHP](https://pestphp.com/) - PHP testing framework with a focus on simplicity.
 - [Phpstan](https://phpstan.org) - Focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code. It moves PHP closer to compiled languages in the sense that the correctness of each line of the code can be checked before you run the actual line.
