@@ -19,6 +19,7 @@
 
 ## Automated Testing Tools
 
+- [Agent Factory](https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui) - open-source studio for building, editing and running AI agents. The ready-made QA agents are available in the shared agents-store repo.
 - [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web/mobile tests, persistent test memory, and self-healing flows.
 - [Athena](https://athena-oss.github.io/) - Automation platform with a plugin architecture that allows you to easily create and share services.
 - [Ava](https://github.com/avajs/ava) - Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.
