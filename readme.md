@@ -174,6 +174,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 ## QA Resources
 
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
+- [Compare JSON: Object Keys, Array Order and Record IDs — BestJSON](https://bestjson.com/learn/compare-json-ignore-order) - Guide to choosing comparison rules when reviewing JSON API responses.
 
 ## Contributing
 
