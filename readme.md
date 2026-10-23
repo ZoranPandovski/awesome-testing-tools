@@ -101,6 +101,7 @@
 - [LoadUI](https://www.soapui.org/) - Scriptless Load Testing for REST & SOAP APIs.
 - [Locust](https://locust.io/) - Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 - [th2-loader](https://exactpro.com/test-tools/th2-loader) - Enterprise-grade load and simulation platform for exchanges, trading venues, market data systems, and post-trade infrastructures. It combines high-volume load generation, failover testing, production-data replay, protocol-aware simulation, and reconciliation to identify performance, resilience and correctness defects under realistic market stress. It supports FIX, ITCH, OUCH, FAST, REST, WebSocket, and proprietary protocols.
+- [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - Bash script that benchmarks a Linux server (sysbench CPU and memory, fio 4k random IOPS) in about a minute, to check a host before load testing on it.
 - [WAPT](https://www.loadtestingtool.com/) - Test the Performance of Web Applications Under Load.
 
 
