@@ -137,6 +137,7 @@
 - [Qualflare](https://qualflare.com/test-observability/) - AI test management and observability platform that turns CI results into answers: history-based flaky-test detection, failure clustering by root cause, reliability trends, and release-risk scoring across 23 frameworks.
 - [TestDino](https://testdino.com/) - Test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.
 - [Multiplayer](https://multiplayer.app/) - Open-source debugging agent that runs locally next to coding agents like Claude Code, Codex, and Copilot, capturing full-stack, unsampled runtime session data to catch and fix bugs automatically.
+- [Zof Flaky Test Detector](https://github.com/Zof-AI/zof-flaky-test-detector) - Offline CLI that analyzes repeated JUnit XML or JSON test outcomes, ranks observed pass/fail instability, and reports missing or insufficient observations.
 
 ## Accessibility Testing Tools
 
