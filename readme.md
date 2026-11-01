@@ -50,6 +50,7 @@
 - [Karma](https://karma-runner.github.io) - Can also watch your development files for changes and re-run the tests automatically. Karma lets us run Jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works.
 - [Katalon Studio](https://www.katalon.com/) - Test automation solution for web, mobile, and web services, built on top of the Selenium and Appium frameworks.
 - [kogiQA](https://kogiqa.com/) - UI automation tool that works without selectors, so one can simply type `page.click('Submit')` it just has to match the meaning you see on the page.
+- [mendwright](https://github.com/saadbuilt/mendwright) - Open-source (MIT) self-healing selectors for Playwright and Selenium in Python. When a selector breaks after a site change, it finds the element again from a saved fingerprint, or with a model when needed (your provider or a 1 GB local one), checks the repair on the live page, and can write it back into your code.
 - [Mocha](https://mochajs.org/) - Open-source JavaScript Testing Framework that runs on Node.js.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
