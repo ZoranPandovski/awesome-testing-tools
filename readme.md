@@ -59,6 +59,7 @@
 - [PestPHP](https://pestphp.com/) - PHP testing framework with a focus on simplicity.
 - [Phpstan](https://phpstan.org) - Focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code. It moves PHP closer to compiled languages in the sense that the correctness of each line of the code can be checked before you run the actual line.
 - [PhpUnit](https://phpunit.de/) - Unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks that originated with SUnit and became popular with JUnit.
+- [Pie](https://pie.inc/) - Agentic testing platform for web, iOS and Android apps. Tests every pull request like a real user, reports the bugs a user would actually hit, and opens a fix PR for your team to review.
 - [Playwright](https://playwright.dev/) - Framework for end-to-end testing of web applications. The framework supports writing tests in a variety of languages.
 - [prufa-mcp](https://github.com/prufa-dev/prufa-mcp) - MCP server that lets an AI agent run a QA audit of a web app (analytics, broken flows, security headers, accessibility) and get back machine-verified findings. Open source, with a free first audit.
 - [Psalm](https://psalm.dev) - Static analysis tool for finding errors in PHP applications, built on top of PHP Parser.
