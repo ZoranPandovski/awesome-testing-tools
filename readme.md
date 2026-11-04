@@ -173,6 +173,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 
 ## QA Resources
 
+- [RMM API Integration Preflight Checklist](https://izikipizi.github.io/nizlo-msp-operations-resources/rmm-api-integration-preflight-checklist.html) - Free, vendor-neutral checklist for verifying identity, tenant isolation, data handling, rate limits, idempotency, webhooks, audit logging, rollback, and production-readiness evidence before an RMM API integration goes live.
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
