@@ -137,6 +137,7 @@
 - [Qualflare](https://qualflare.com/test-observability/) - AI test management and observability platform that turns CI results into answers: history-based flaky-test detection, failure clustering by root cause, reliability trends, and release-risk scoring across 23 frameworks.
 - [TestDino](https://testdino.com/) - Test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.
 - [Multiplayer](https://multiplayer.app/) - Open-source debugging agent that runs locally next to coding agents like Claude Code, Codex, and Copilot, capturing full-stack, unsampled runtime session data to catch and fix bugs automatically.
+- [Betterloop](https://betterloopai.com/) - Script tag that watches real sessions for rage clicks, dead buttons, JavaScript errors and slow pages, and returns one ranked list of fixes across UX, performance, security, SEO and accessibility, readable by coding agents through MCP.
 
 ## Accessibility Testing Tools
 
