@@ -110,6 +110,7 @@
 - [Espresso](https://developer.android.com/training/testing/espresso) - Mobile testing tool for the enterprises. As an open-source tool, it's very easy to use, and it can extend within that working environment.
 - [Experitest](https://experitest.com/) - Perform continuous web and mobile app testing to accelerate release cycles and increase quality.
 - [FlyTrap](https://flytrap.dev/) - Exploratory testing agent that finds bugs, crashes, and UX issues in Android and iOS apps. Point it at a Play Store listing, TestFlight build, or app binary and it explores the app like a real tester, no scripts or setup needed. Findings are ready to file in Jira, Linear, and GitHub.
+- [Geovo](https://geovo.app) - Sets the GPS location of a real iPhone or iPad from Mac or Windows for testing location features, with routes, GPX/KML import and a joystick.
 - [Maestro](https://www.mobile.dev/) - Mobile UI testing framework for Android and iOS.
 - [React Native Testing Library](https://callstack.github.io/react-native-testing-library/) - The React Native Testing Library is a lightweight solution for testing React Native components. It provides light utility functions on top of react-test-renderer, in a way that encourages better testing practices.
 - [Robolectric](http://robolectric.org/) - Open source test framework for Android. It provides faster unit-testing by running tests inside JVM.
