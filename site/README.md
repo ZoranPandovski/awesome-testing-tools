@@ -13,12 +13,13 @@ readme.md ──> scripts/parse-readme.mjs ──> site/data/tools.json ──> 
 ```
 
 1. [`scripts/parse-readme.mjs`](../scripts/parse-readme.mjs) (Node 20+, no dependencies)
-   parses the markdown tables under each `##` heading. It normalizes prices to
-   `free` / `paid` / `freemium`, extracts the first http(s) URL from messy link cells,
-   strips inline markdown from descriptions, merges duplicate category sections
-   (deduplicating tools by name, keeping the longer description), title-cases category
-   names, and assigns each tool a slug `id` plus a deterministic 2-digit TV `channel`.
-   Malformed rows are skipped with a warning instead of failing the build.
+   parses the awesome-style bullet entries (`- [Name](url) - Description.`) under each
+   `##` category heading. It extracts the first http(s) URL, strips inline markdown from
+   descriptions, skips non-category sections (Contents, Contributing, License) and any
+   prose bullets, merges duplicate categories (deduplicating tools by name, keeping the
+   longer description), title-cases category names, and assigns each tool a slug `id`
+   plus a deterministic 2-digit TV `channel`. Malformed entries are skipped with a
+   warning instead of failing the build.
 2. The site is plain HTML/CSS/JS — no framework, no bundler. `app.js` fetches
    `data/tools.json` with a relative path, so it works from the GitHub Pages
    project subpath.

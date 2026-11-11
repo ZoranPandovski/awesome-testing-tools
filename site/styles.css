@@ -604,34 +604,6 @@ main { padding-bottom: 24px; }
   padding: 2px 7px;
 }
 
-.badge {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  border-radius: 2px;
-  padding: 2px 7px;
-  border: 1px solid;
-}
-
-.badge-free {
-  color: var(--mint-bright);
-  border-color: rgba(95, 226, 167, 0.5);
-  background: rgba(95, 226, 167, 0.08);
-}
-
-.badge-paid {
-  color: #ff8d99;
-  border-color: rgba(242, 56, 74, 0.55);
-  background: rgba(242, 56, 74, 0.1);
-}
-
-.badge-freemium {
-  color: var(--sand);
-  border-color: rgba(216, 202, 168, 0.45);
-  background: rgba(216, 202, 168, 0.08);
-}
-
 .card-desc {
   margin: 0;
   font-size: 13.5px;
@@ -691,7 +663,7 @@ main { padding-bottom: 24px; }
   .tuned { gap: 5px; }
   .tuned-name { font-size: 14px; }
   .tuned-meta { gap: 4px; }
-  .chip, .badge { font-size: 9.5px; padding: 1px 5px; }
+  .chip { font-size: 9.5px; padding: 1px 5px; }
   .tuned-desc { font-size: 12px; line-height: 1.5; }
   .tuned-actions { margin: 2px -10px 0; padding: 5px 9px 0; }
   .visit-btn { font-size: 10px; padding: 4px 12px; }
