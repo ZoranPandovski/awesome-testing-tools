@@ -127,6 +127,7 @@
 - [Nmap](https://nmap.org/) - An open-source network scanner with many features to discover what is available over the network including hosts, services and operating systems.
 - [OWASP](https://www.owasp.org/) - The OWASP Zed Attack Proxy (ZAP) is a free, open-source security tool maintained by international volunteers. It finds security vulnerabilities in web applications automatically during development and testing, and also supports manual security testing.
 - [ParrotOS](https://www.parrotsec.org/) - A lightweight security flavor of Debian Linux with a framework of security tools already installed.
+- [web-security-fixtures](https://github.com/Excession-Labs/web-security-fixtures) - Local web and API security fixtures with vulnerable and fixed modes, verifiers, and recorded runs (MIT).
 - [Wireshark](https://www.wireshark.org/) - Widely-used network protocol analyzer that lets you see what's happening on your network at a microscopic level.
 
 
