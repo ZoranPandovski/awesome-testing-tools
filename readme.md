@@ -174,6 +174,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 ## QA Resources
 
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
+- [Example File](https://example-file.com/en/) - Free sample files for upload, parser and media-player testing: PDF, video, audio, images, Office documents, archives and fonts from 1 KB to 2 GB at fixed download URLs, with published SHA-256 checksums. No signup.
 
 ## Contributing
 
