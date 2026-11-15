@@ -162,6 +162,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 - We are working in a distributed team and development goes hand in hand, how to share contract?
 
 
+- [atrezzo](https://github.com/zeta92/atrezzo) - API mocks where every endpoint is a deterministic projection of one seeded data set, with a YAML scenario that a CLI checks against the rendered DOM; ships as a Claude Code plugin, MIT.
 - [Beeceptor](https://beeceptor.com/) - Cloud based platform for API mocking, debugging, and traffic inspection that provides customizable endpoints for multi-protocol (HTTP, SOAP, GraphQL and gRPC) API services. It offers rule based request and state matching, error and latency simulations, CRUD and stateful mocking, and service virtualization using API specification formats, and offers various other features.
 - [cliguard](https://github.com/Bryandero98/cliguard) - Contract testing for CLI tools: snapshots a CLI's real surface (commands, flags, defaults) by introspecting the framework's own object model, classifies any change as breaking, additive, or patch, and fails CI on unintentional breaking changes. Adapters for Commander, CAC, Yargs, and Click.
 - [JsonSchema](https://json-schema.org/) - JSON Schema validates the structure and semantics of JSON data. It is a good fit for contract testing public APIs where you cannot control provider state (a case Pact cannot cover), and [validators](https://json-schema.org/tools) exist for many languages.
