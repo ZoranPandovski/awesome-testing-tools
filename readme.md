@@ -178,3 +178,4 @@ Following use cases could be valid for the contract testing in consumer and prov
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
