@@ -50,6 +50,7 @@
 - [Karma](https://karma-runner.github.io) - Can also watch your development files for changes and re-run the tests automatically. Karma lets us run Jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works.
 - [Katalon Studio](https://www.katalon.com/) - Test automation solution for web, mobile, and web services, built on top of the Selenium and Appium frameworks.
 - [kogiQA](https://kogiqa.com/) - UI automation tool that works without selectors, so one can simply type `page.click('Submit')` it just has to match the meaning you see on the page.
+- [mcp-writecheck-action](https://github.com/isokron-ai/mcp-writecheck-action) - GitHub Action that tests the write tools of an MCP server in CI against the MCP Write-Safety Requirements (MWS 0.9), from a plan with no tool calls to real writes in a test environment, and reports verdicts per requirement and write path. Apache-2.0.
 - [Mocha](https://mochajs.org/) - Open-source JavaScript Testing Framework that runs on Node.js.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
