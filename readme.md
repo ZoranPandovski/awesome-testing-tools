@@ -174,6 +174,7 @@ Following use cases could be valid for the contract testing in consumer and prov
 ## QA Resources
 
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
+- [QA Tools](https://artichokeee.github.io/qa-tools/) - Free in-browser practice for testers (in Russian): an SQL sandbox with a shop database full of planted data bugs, a bug-hunting page, a boundary value calculator and a testing crossword.
 
 ## Contributing
 
