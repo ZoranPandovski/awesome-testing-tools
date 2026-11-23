@@ -50,6 +50,7 @@
 - [Karma](https://karma-runner.github.io) - Can also watch your development files for changes and re-run the tests automatically. Karma lets us run Jasmine tests as part of a development tool chain which requires tests to be runnable and results inspectable via the command line. It's not necessary to know the internals of how Karma works.
 - [Katalon Studio](https://www.katalon.com/) - Test automation solution for web, mobile, and web services, built on top of the Selenium and Appium frameworks.
 - [kogiQA](https://kogiqa.com/) - UI automation tool that works without selectors, so one can simply type `page.click('Submit')` it just has to match the meaning you see on the page.
+- [LS Exit Audit](https://twappleon.github.io/ls-exit-audit/?utm_source=awesome_testing_tools&utm_medium=github_pr&utm_campaign=ls_exit_audit_v030) - Paid local CLI that inventories Lemon Squeezy checkout, SDK, API, webhook, license and configuration surfaces before a merchant-of-record migration, with Markdown, HTML, JSON and SARIF evidence reports.
 - [Mocha](https://mochajs.org/) - Open-source JavaScript Testing Framework that runs on Node.js.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
