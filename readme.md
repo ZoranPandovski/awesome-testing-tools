@@ -173,6 +173,8 @@ Following use cases could be valid for the contract testing in consumer and prov
 
 ## QA Resources
 
+- [Treseko Community](https://github.com/treseko/treseko-platform) - Self-hosted QA platform for managing test cases, recording manual and automated runs, preserving evidence, and tracking bugs.
+
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
 
 ## Contributing
