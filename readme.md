@@ -91,6 +91,8 @@
 - [Zato API Test](https://zato.io/) - API testing in pure English. No programming needed. Implemented and extendable in Python.
 - [Zyntra](https://zyntra.app/) - Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
 
+
+
 ## Load Testing Tools
 
 - [ApacheBench](https://httpd.apache.org/docs/2.4/programs/ab.html) - Tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving.
@@ -174,7 +176,8 @@ Following use cases could be valid for the contract testing in consumer and prov
 ## QA Resources
 
 - [QAPractices](https://qapractices.com/) - Curated QA platform with free test cases, checklists, templates, AI prompts and guides for API, web, mobile, security, accessibility and performance testing.
-
+- [QA Testing Service – 39+ Practice Websites](https://qatestingservice.in/resources): Free demo websites and practice environments to help QA learners apply software testing concepts through hands-on practice.
+  
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
