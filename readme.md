@@ -136,7 +136,9 @@
 - [FlakeTrack](https://github.com/cbrown350/flaketrack) - GitHub Action that detects, trends, and quarantines flaky JUnit tests using only resources you already control: it ingests JUnit XML after your test step and stores the full history in your own repo (a branch, Issues, and a static GitHub Pages dashboard), with no external account, server, or hosted database.
 - [Qualflare](https://qualflare.com/test-observability/) - AI test management and observability platform that turns CI results into answers: history-based flaky-test detection, failure clustering by root cause, reliability trends, and release-risk scoring across 23 frameworks.
 - [TestDino](https://testdino.com/) - Test observability platform that centralizes runs, errors, and coverage trends into one analytics dashboard, with flaky-test tracking, AI failure insights, and CI-aware views that cut debugging time, reduce flaky failures, and lower CI costs for growing automation suites.
+- **[Allure-Katalon Bridge](https://github.com/montbaga/allure-katalon-bridge)** - "Zero-touch Allure reporting for Katalon Studio projects, no plugin or OSGi packaging required."
 - [Multiplayer](https://multiplayer.app/) - Open-source debugging agent that runs locally next to coding agents like Claude Code, Codex, and Copilot, capturing full-stack, unsampled runtime session data to catch and fix bugs automatically.
+
 
 ## Accessibility Testing Tools
 
