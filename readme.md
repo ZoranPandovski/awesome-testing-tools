@@ -22,6 +22,7 @@
 - [Agent QA](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web/mobile tests, persistent test memory, and self-healing flows.
 - [Athena](https://athena-oss.github.io/) - Automation platform with a plugin architecture that allows you to easily create and share services.
 - [Ava](https://github.com/avajs/ava) - Test runner for Node.js with a concise API, detailed error output, process isolation, and support for new language features.
+- [Behave](https://behave.readthedocs.io/) - Behaviour-driven development framework for Python. Tests are written in plain-language Gherkin (Given/When/Then) and mapped to Python step implementations.
 - [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures runtime behavior (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for regression testing and debugging.
 - [Broken Link Checker](https://nutilz.com/broken-link-checker) - Free tool that crawls a page, checks every link concurrently, and reports which ones are broken, redirected, or slow, with HTTP status and final destination for each. No signup required.
 - [BrowserBash](https://github.com/PramodDutta/browserbash) - Open-source CLI where an AI agent runs plain-English browser tests in a real Chrome and returns deterministic assertions and CI exit codes. Ships an MCP server so coding agents can validate their own UI work. Runs on free local models, no API keys.
