@@ -51,6 +51,7 @@
 - [Katalon Studio](https://www.katalon.com/) - Test automation solution for web, mobile, and web services, built on top of the Selenium and Appium frameworks.
 - [kogiQA](https://kogiqa.com/) - UI automation tool that works without selectors, so one can simply type `page.click('Submit')` it just has to match the meaning you see on the page.
 - [Mocha](https://mochajs.org/) - Open-source JavaScript Testing Framework that runs on Node.js.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Open-source, zero-dependency engine for checksum-valid financial and identity test data (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes. CLI, Python SDK, Java library, REST API, and JMeter plugin.
 - [MockHero](https://mockhero.dev) - REST API for generating synthetic test data. 156 field types, 22 locales, relational data, sub-50ms responses. Free tier: 1,000 records/day.
 - [Mockito](https://site.mockito.org) - Mocking framework that lets you write tests with a clean & simple API. Mockito's tests are very readable and they produce clean verification errors.
 - [Muraqib](https://github.com/holistis/muraqib) - Nightly QA guardian for solo SaaS founders. Playwright tests your live app, Claude fixes failing tests automatically, you get one weekly email.
