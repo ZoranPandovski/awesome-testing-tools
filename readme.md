@@ -72,6 +72,7 @@
 - [SilkTest](https://www.microfocus.com/en-us/products/silk-test/overview) - Test automation for web, mobile, rich-client, and Enterprise applications.
 - [Squish](https://www.qt.io/product/quality-assurance/squish) - The GUI Testing Tool for automated functional regression and system testing. Squish supports of all kinds of cross-platform desktop, mobile, embedded and web applications.
 - [Telerik](https://www.telerik.com/) - Test automation for GUI, performance, load, and API testing across web, mobile, and desktop applications.
+- [Tempboxy](https://tempboxy.com/temp-mail-api) - Free disposable .com and .edu.pl email inbox and keyless JSON REST API with automatic OTP extraction, verification link parsing, 375px mobile HTML preview, .eml export, and a remote MCP server for E2E and CI testing.
 - [TestCafé](https://testcafe.io/) - Open-source cross browser end-to-end functional test automation solution for web application. It is a JS based project, and run test suites on any popular browser without adding any additional code.
 - [Test-proxy-recorder](https://github.com/asmyshlyaev177/test-proxy-recorder) - VCR-style record/replay of real API, SSR & WebSocket traffic for deterministic Playwright tests.
 - [TestComplete](https://smartbear.com/) - Create complex and scalable automated UI functional tests in seconds with Record & Playback capabilities. With TestComplete you can trust your recorded tests will always play back - powered by the most accurate and customizable object repository, with 1k Rules Covering 50k properties & 500 controls.
