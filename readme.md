@@ -151,6 +151,7 @@ Accessibility testing ensures that web applications and websites are usable by p
 - [Site Punchlist](https://sitepunchlist.com) - A hosted scanner that crawls an entire site with axe-core and groups repeated findings by the shared component that causes them, so one fix covers every page it appears on. Returns a prioritised report as HTML, PDF and CSV, and publishes per criterion which WCAG 2.2 Level A and AA criteria automated testing can and cannot reach. Free five-page scan, no account.
 - [TrustYourWebsite](https://trustyourwebsite.com) - An automated website compliance scanner for EU and UK small businesses, built on axe-core. It checks accessibility against WCAG along with GDPR/cookie-banner and legal-page compliance, reporting issues only without injecting anything into the page (not an overlay). The free scan returns a risk score and issue counts.
 - [WAVE](https://wave.webaim.org/) - A suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. Developed by WebAIM, it provides visual feedback about the accessibility of web content by injecting icons and indicators into the page.
+- [Color Contrast Checker](https://alltoolsverse.com/tools/color-contrast-checker/) - Checks WCAG 2 contrast ratios for foreground and background colors, with AA and AAA results and live previews.
 
 ## Contract Testing Tools
 
